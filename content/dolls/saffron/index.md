@@ -13,8 +13,8 @@ cascade:
 | **Birthday** | May 15 |
 | **Gender** | Female |
 | **Occupation** | Child / Student |
-| **Parents** | Adeon Zhou (father) <br> [Neoma Wen](../neoma) (mother) |
-| **Relatives** | Glaive Wen (uncle) |
+| **Parents** | [Adeon Zhou](../adeon/) (father) <br> [Neoma Wen](../neoma/) (mother) |
+| **Relatives** | [Glaive Wen](../glaive/) (uncle) |
 
 | Doll Profile | |
 | ----- | ---|

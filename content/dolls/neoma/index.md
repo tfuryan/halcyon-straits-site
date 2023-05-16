@@ -13,9 +13,9 @@ cascade:
 | **Birthday** | Februrary 26 |
 | **Gender** | Female |
 | **Occupation** | Corporate Lawyer |
-| **Spouse** | Adeon Zhou (divorced) |
-| **Children** | [Saffron Zhou](../saffron) |
-| **Relatives** | Glaive Wen (brother) |
+| **Spouse** | [Adeon Zhou](../adeon/) (divorced) |
+| **Children** | [Saffron Zhou](../saffron/) |
+| **Relatives** | [Glaive Wen](../glaive/) (brother) |
 
 | Doll Profile | |
 | ----- | ---|
