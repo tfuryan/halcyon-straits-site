@@ -13,12 +13,12 @@
 [[main]]
   name = "Blog"
   pageRef = "posts"
-  weight = 10
+  weight = 30
 
 [[main]]
   name = "Dolls"
   pageRef = "dolls"
-  weight = 20
+  weight = 10
 
 #[[main]]
 #  name = "Neoma"
@@ -35,7 +35,7 @@
 [[main]]
   name = "Sewing Patterns"
   pageRef = "sewing"
-  weight = 30
+  weight = 20
 
 #[[subnavigation]]
 #  name = "An interesting topic"

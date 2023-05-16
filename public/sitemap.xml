@@ -142,14 +142,6 @@
   
     
       <url>
-            <loc>/resources/</loc>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
             <loc>/dolls/saffron/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>

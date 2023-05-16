@@ -15,7 +15,7 @@ cascade:
 | **Gender** | Female |
 | **Occupation** | Child / Student |
 | **Parents** | [Adeon Zhou]({{< ref "dolls/adeon" >}}) (father) <br> [Neoma Wen]({{< ref "dolls/neoma" >}}) (mother) |
-| **Relatives** | [Glaive Wen]({{< ref "dolls/glaive" >}} (uncle) |
+| **Relatives** | [Glaive Wen]({{< ref "dolls/glaive" >}}) (uncle) |
 
 ---
 

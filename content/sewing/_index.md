@@ -8,6 +8,10 @@ cascade:
   showWordCount: false
   showDate: false
 ---
-This section contains all my current sewing patterns.
+This section contains all my current sewing patterns. 
+
+{{< alert >}}
+All patterns are for personal use only.
+{{< /alert >}}
 
 ---
