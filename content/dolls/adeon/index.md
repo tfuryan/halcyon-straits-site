@@ -5,7 +5,7 @@ summary: "My doll with the most frustrating body"
 cascade:
   showReadingTime: false
 ---
-<figure><img src="adeon-carrying-saffron.png" alt="A doll posing holding a white straw Hat" width="500"><figcaption>Neoma Wen - March 2023</figcaption></figure> 
+<figure><img src="adeon-carrying-saffron.png" alt="A doll posing holding a white straw Hat" width="500"><figcaption>Adeon Zhou - January 2023</figcaption></figure> 
 
 | Character Profile | |
 | ----- | ---|
