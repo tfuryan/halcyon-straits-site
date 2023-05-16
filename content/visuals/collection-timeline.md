@@ -1,11 +1,16 @@
 ---
 title: "Doll Timeline"
 description: "Timeline of my doll acquisition"
+
 showReadingTime: false
 groupByYear: false
 showAuthor: false
 showWordCount: false
 showDate: false
+showBreadcrumbs: false
+showBreadcrumbs: false
+showPagination: false
+
 ---
 
 {{< timeline >}}
