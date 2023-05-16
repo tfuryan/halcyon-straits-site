@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dolls on Halcyon Straits</title>
+    <link>/dolls/</link>
+    <description>Recent content in Dolls on Halcyon Straits</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="/dolls/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neoma Wen</title>
+      <link>/dolls/neoma/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/dolls/neoma/</guid>
+      <description>My favorite doll</description>
+    </item>
+    
+    <item>
+      <title>Seacan</title>
+      <link>/dolls/seacan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/dolls/seacan/</guid>
+      <description>My prettiest boy doll</description>
+    </item>
+    
+  </channel>
+</rss>
