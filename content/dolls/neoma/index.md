@@ -6,3 +6,26 @@ cascade:
   showReadingTime: false
 ---
 <figure><img src="neoma_fashion_style03.png" alt="A doll posing holding a white straw Hat" width="500"><figcaption>Neoma Wen - March 2023</figcaption></figure> 
+
+| Character Profile | |
+| ----- | ---|
+| **Age** | 32 |
+| **Birthday** | Februrary 26 |
+| **Gender** | Female |
+| **Occupation** | Corporate Lawyer |
+| **Spouse** | Adeon Zhou (divorced) |
+| **Children** | 1  <br> Saffron Zhou |
+| **Relatives** | Glaive Wen |
+
+| Doll Profile | |
+| ----- | ---|
+| **Maker** | Phoenix Dolls |
+| **Head Sculpt** | Liu |
+| **Resin Color** | Fine Cream |
+| **Body** | Dollshe 16F |
+| **Face-up artist** | Komorebi Dolls |
+| **Body blushing artist** | Komorebi Dolls - Hands x3 |
+| **Date of acquisition** | February 2021 |
+| **Provenance** | Purchased second-hand on Instagram |
+| **Eyes** | AshuraDarkEyes <br> Resin <br> Amber <br> 12/5 |
+| **Wig** | Amadiz Beauty <br> "Plisetsky" <br> Angora Fiber <br> Natural Black <br> 8-9" |
