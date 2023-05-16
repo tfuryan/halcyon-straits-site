@@ -1,5 +1,5 @@
 ---
-title: "Seacan"
+title: "Seacan Vaughn"
 description: "Seacan Profile"
 summary: "My prettiest boy doll"
 cascade:

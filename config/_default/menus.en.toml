@@ -20,27 +20,21 @@
   pageRef = "dolls"
   weight = 20
 
-[[main]]
-  name = "Neoma"
-  parent = "Dolls"
-  pageRef = "dolls/neoma"
-  weight = 20
+#[[main]]
+#  name = "Neoma"
+#  parent = "Dolls"
+#  pageRef = "dolls/neoma"
+#  weight = 20
 
-[[main]]
-  name = "Seacan"
-  parent = "Dolls"
-  pageRef = "dolls/seacan"
-  weight = 20
-
-[[main]]
-  name = "Resources"
-  pageRef = "resources"
-  weight = 30
+#[[main]]
+#  name = "Seacan"
+#  parent = "Dolls"
+# pageRef = "dolls/seacan"
+#  weight = 20
 
 [[main]]
   name = "Sewing Patterns"
-  parent = "Resources"
-  pageRef = "resources/sewing"
+  pageRef = "sewing"
   weight = 30
 
 #[[subnavigation]]

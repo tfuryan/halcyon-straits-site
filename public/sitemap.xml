@@ -51,7 +51,7 @@
   
     
       <url>
-            <loc>/resources/sewing/dtelf/</loc>
+            <loc>/sewing/dtelf/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -85,7 +85,7 @@
   
     
       <url>
-            <loc>/resources/sewing/</loc>
+            <loc>/sewing/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
