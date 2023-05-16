@@ -14,15 +14,15 @@ cascade:
 | **Gender** | Female |
 | **Occupation** | Corporate Lawyer |
 | **Spouse** | Adeon Zhou (divorced) |
-| **Children** | 1  <br> Saffron Zhou |
-| **Relatives** | Glaive Wen |
+| **Children** | [Saffron Zhou](../saffron) |
+| **Relatives** | Glaive Wen (brother) |
 
 | Doll Profile | |
 | ----- | ---|
 | **Maker** | Phoenix Dolls |
 | **Head Sculpt** | Liu |
 | **Resin Color** | Fine Cream |
-| **Body** | Dollshe 16F |
+| **Body** | Dollshe 16F <br> Oriental |
 | **Face-up artist** | Komorebi Dolls |
 | **Body blushing artist** | Komorebi Dolls - Hands x3 |
 | **Date of acquisition** | February 2021 |

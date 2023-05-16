@@ -19,7 +19,7 @@ cascade:
 | **Maker** | Fifth Motif |
 | **Head Sculpt** | Venitu |
 | **Resin Color** | Copper Oriental |
-| **Body** | Fifth Motif Timeless Body |
+| **Body** | Fifth Motif Timeless Body <br> Copper Oriental |
 | **Face-up artist** | SD Ink |
 | **Date of acquisition** | March 2023 |
 | **Provenance** | Purchased second-hand on Den of Angels |

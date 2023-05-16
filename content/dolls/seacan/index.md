@@ -19,7 +19,7 @@ cascade:
 | **Maker** | Rugged Realism |
 | **Head Sculpt** | Epsilon |
 | **Resin Color** | Truly Divine |
-| **Body** | Rugged Realism Alphabets |
+| **Body** | Rugged Realism Alphabets <br> Truly Divine |
 | **Face-up artist** | Komorebi Dolls |
 | **Body blushing artist** | Unknown |
 | **Date of acquisition** | Body - May 2022 <br> Head - August 2022 |
