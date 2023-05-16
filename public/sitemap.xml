@@ -31,6 +31,13 @@
   
     
       <url>
+            <loc>/visuals/</loc>
+            <priority>0</priority>
+          </url>
+    
+  
+    
+      <url>
             <loc>/about/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -61,7 +68,15 @@
   
     
       <url>
-            <loc>/stubs/timeline/collection-timeline/</loc>
+            <loc>/visuals/gallery/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>/visuals/collection-timeline/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -154,14 +169,6 @@
     
       <url>
             <loc>/sewing/</loc>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>/stubs/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
