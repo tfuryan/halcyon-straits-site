@@ -4,6 +4,7 @@ description: "Neoma Wen Profile"
 summary: "My favorite doll"
 cascade:
   showReadingTime: false
+type: 'dolls'
 ---
 <figure><img src="neoma_fashion_style03.png" alt="A doll posing holding a white straw Hat" width="500"><figcaption>Neoma Wen - March 2023</figcaption></figure> 
 
@@ -13,9 +14,9 @@ cascade:
 | **Birthday** | Februrary 26 |
 | **Gender** | Female |
 | **Occupation** | Corporate Lawyer |
-| **Spouse** | [Adeon Zhou](../adeon/) (divorced) |
-| **Children** | [Saffron Zhou](../saffron/) |
-| **Relatives** | [Glaive Wen](../glaive/) (brother) |
+| **Spouse** | [Adeon Zhou]({{< ref "dolls/adeon" >}}) (divorced) |
+| **Children** | [Saffron Zhou]({{< ref "dolls/saffron" >}}) |
+| **Relatives** | [Glaive Wen]({{< ref "dolls/glaive" >}}) (brother) |
 
 ---
 

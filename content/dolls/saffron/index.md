@@ -2,6 +2,7 @@
 title: "Saffron Zhou"
 description: "Saffron Zhou Profile"
 summary: "My precocious child doll"
+tags: [ "wip"]
 cascade:
   showReadingTime: false
 ---
@@ -13,8 +14,8 @@ cascade:
 | **Birthday** | May 15 |
 | **Gender** | Female |
 | **Occupation** | Child / Student |
-| **Parents** | [Adeon Zhou](../adeon/) (father) <br> [Neoma Wen](../neoma/) (mother) |
-| **Relatives** | [Glaive Wen](../glaive/) (uncle) |
+| **Parents** | [Adeon Zhou]({{< ref "dolls/adeon" >}}) (father) <br> [Neoma Wen]({{< ref "dolls/neoma" >}}) (mother) |
+| **Relatives** | [Glaive Wen]({{< ref "dolls/glaive" >}} (uncle) |
 
 ---
 

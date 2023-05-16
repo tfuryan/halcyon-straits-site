@@ -1,6 +1,7 @@
 ---
 title: "Dolls"
 description: "Dolls in my current collection."
+showTaxonomies: true
 cascade:
   showReadingTime: false
   groupByYear: false

@@ -13,7 +13,7 @@ cascade:
 | **Birthday** | April 16 |
 | **Gender** | Male |
 | **Occupation** | Unemployed |
-| **Relatives** | [Neoma Wen](../neoma) (sister) <br> [Saffron Zhou](../saffron) (niece)|
+| **Relatives** | [Neoma Wen]({{< ref "dolls/neoma" >}}) (sister) <br> [Saffron Zhou]({{< ref "dolls/saffron" >}}) (niece)|
 
 ---
 

@@ -2,6 +2,7 @@
 title: "Rai Fletcher"
 description: "Rai Fletcher Profile"
 summary: "My moodiest boy doll"
+tags: ["dolls", "complete"]
 cascade:
   showReadingTime: false
 ---
