@@ -14,6 +14,8 @@ cascade:
 | **Gender** | Male |
 | **Occupation** | Bartender |
 
+---
+
 | Doll Profile | |
 | ----- | ---|
 | **Maker** | La Légende de Temps  |

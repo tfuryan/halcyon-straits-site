@@ -17,6 +17,8 @@ cascade:
 | **Children** | [Saffron Zhou](../saffron/) |
 | **Parents** | Hester Zhou (mother) |
 
+---
+
 | Doll Profile | |
 | ----- | ---|
 | **Maker** | Pygmalion Dolls |

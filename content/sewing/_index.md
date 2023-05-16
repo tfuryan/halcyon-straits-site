@@ -9,3 +9,5 @@ cascade:
   showDate: false
 ---
 This section contains all my current sewing patterns.
+
+---

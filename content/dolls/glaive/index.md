@@ -15,6 +15,8 @@ cascade:
 | **Occupation** | Unemployed |
 | **Relatives** | [Neoma Wen](../neoma) (sister) <br> [Saffron Zhou](../saffron) (niece)|
 
+---
+
 | Doll Profile | |
 | ----- | ---|
 | **Maker** | Meeks Doll |

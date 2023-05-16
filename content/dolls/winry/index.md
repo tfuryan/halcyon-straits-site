@@ -15,6 +15,8 @@ cascade:
 | **Occupation** | Personal Chef |
 | **Relatives** | [Gemma Lin](../gemma/) (sister) |
 
+---
+
 | Doll Profile | |
 | ----- | ---|
 | **Maker** | Iplehouse  |

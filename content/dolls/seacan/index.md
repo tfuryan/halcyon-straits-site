@@ -14,6 +14,8 @@ cascade:
 | **Gender** | Male |
 | **Occupation** | Voice Actor |
 
+---
+
 | Doll Profile | |
 | ----- | ---|
 | **Maker** | Rugged Realism |

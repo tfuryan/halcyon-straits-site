@@ -16,6 +16,8 @@ cascade:
 | **Parents** | [Adeon Zhou](../adeon/) (father) <br> [Neoma Wen](../neoma/) (mother) |
 | **Relatives** | [Glaive Wen](../glaive/) (uncle) |
 
+---
+
 | Doll Profile | |
 | ----- | ---|
 | **Maker** | Black Cherry Dolls |

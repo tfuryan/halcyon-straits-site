@@ -15,6 +15,8 @@ cascade:
 | **Occupation** | Executive Assistant |
 | **Relatives** | [Winry Lin](../winry/) (sister) |
 
+---
+
 | Doll Profile | |
 | ----- | ---|
 | **Maker** | Raccoon Doll  |

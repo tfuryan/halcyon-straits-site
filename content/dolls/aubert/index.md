@@ -14,6 +14,8 @@ cascade:
 | **Gender** | Male |
 | **Occupation** | Baker |
 
+---
+
 | Doll Profile | |
 | ----- | ---|
 | **Maker** | Fifth Motif |

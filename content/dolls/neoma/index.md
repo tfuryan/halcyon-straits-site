@@ -17,6 +17,8 @@ cascade:
 | **Children** | [Saffron Zhou](../saffron/) |
 | **Relatives** | [Glaive Wen](../glaive/) (brother) |
 
+---
+
 | Doll Profile | |
 | ----- | ---|
 | **Maker** | Phoenix Dolls |
