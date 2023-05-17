@@ -63,6 +63,19 @@
   pageRef = "about"
   weight = 100
 
+[[main]]
+  identifier = "instagram"
+  pre = "instagram"
+  url = "https://instagram.com/halcyonstraits"
+  weight = 200
+
+[[main]]
+  identifier = "youtube"
+  pre = "youtube"
+  url = "https://youtube.com/HalcyonStraits"
+  weight = 300
+
+
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.

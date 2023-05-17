@@ -17,8 +17,10 @@ cascade:
 
 I measured my doll as guided by [Fearless Makers](https://www.fearlessmakers.com/manual/taking-measurements/measuring-a-model). With these measurements, you can generate slopers/blocks as well as other basic patterns. I use many of the patterns available as a starting point and modify as I want changes to fit and style.
 
-<details>
-<summary>Basic</summary>
+<details open>
+<summary>{{< button target="_self" >}}
+Basic
+{{< /button >}}</summary>
 
 | Measurement Set | Description | Values in Centimeters |
 | ----- | --- | --- |
@@ -49,8 +51,12 @@ I measured my doll as guided by [Fearless Makers](https://www.fearlessmakers.com
 |Wrist|Around the wrist just above the wrist bone.|6.5|
 
 </details>
+<br>
+
 <details>
-<summary>Full</summary>
+<summary>{{< button target="_self" >}}
+Extended
+{{< /button >}}</summary>
 
 | Measurement Set | Description | Values in Centimeters |
 | ----- | --- | --- |

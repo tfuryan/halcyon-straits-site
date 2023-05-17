@@ -8,11 +8,20 @@
     <language>en</language>
     <lastBuildDate>Mon, 15 May 2023 21:52:10 -0400</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Mostly There</title>
+      <link>/posts/post-02-mostly-there/</link>
+      <pubDate>Tue, 16 May 2023 23:43:21 -0400</pubDate>
+      
+      <guid>/posts/post-02-mostly-there/</guid>
+      <description>I have been tinkering with this site for what feels like 36 hours straight with small reprieves for meals and am running on a pitiful amount of sleep.</description>
+    </item>
+    
+    <item>
       <title>My First Post</title>
-      <link>/posts/my-first-post/</link>
+      <link>/posts/post-01-my-first-post/</link>
       <pubDate>Mon, 15 May 2023 21:56:06 -0400</pubDate>
       
-      <guid>/posts/my-first-post/</guid>
+      <guid>/posts/post-01-my-first-post/</guid>
       <description>Hello!</description>
     </item>
     
