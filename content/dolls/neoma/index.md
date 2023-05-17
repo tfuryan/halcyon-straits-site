@@ -2,11 +2,12 @@
 title: "Neoma Wen"
 description: "Neoma Wen Profile"
 summary: "My favorite doll"
+tags: ["complete","hybrid","phoenix doll","dollshe","60cm", "female"]
 cascade:
   showReadingTime: false
 type: 'dolls'
 ---
-<figure><img src="neoma_fashion_style03.png" alt="A doll posing holding a white straw Hat" width="500"><figcaption>Neoma Wen - March 2023</figcaption></figure> 
+<figure><img src="neoma_fashion_style03.png" alt="A female asian doll with deep red lips wearing a red head scarf" width="500"><figcaption>Neoma Wen - March 2023</figcaption></figure> 
 
 | Character Profile | |
 | ----- | ---|

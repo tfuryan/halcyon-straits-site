@@ -36,7 +36,7 @@ highlightCurrentMenuArea = true
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  #homepageImage = "IMAGE.jpg" # used in: hero, and card
+  homepageImage = "img/background-main.png" # used in: hero, and card
   showRecent = true
   showRecentItems = 3
   showMoreLink = true
@@ -101,11 +101,12 @@ highlightCurrentMenuArea = true
   showViews = false
   showLikes = false
   showTableOfContents = false
-  cardView = true
+  cardView = false
+  groupByYear = false
 
 [term]
   showHero = true
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
   showViews = false
   showLikes = false

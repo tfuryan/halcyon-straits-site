@@ -2,10 +2,11 @@
 title: "Adeon Zhou"
 description: "Adeon Zhou Profile"
 summary: "My doll with the most frustrating body"
+tags: ["complete","pygmalion dolls","70cm","male"]
 cascade:
   showReadingTime: false
 ---
-<figure><img src="adeon-carrying-saffron.png" alt="A doll posing holding a white straw Hat" width="500"><figcaption>Adeon Zhou - January 2023</figcaption></figure> 
+<figure><img src="adeon-carrying-saffron.png" alt="A male doll with black hair in a plaid button up shirt carrying a sleeping child doll with red and black hair on his back" width="500"><figcaption>Adeon Zhou - January 2023</figcaption></figure> 
 
 | Character Profile | |
 | ----- | ---|

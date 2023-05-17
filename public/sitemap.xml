@@ -6,7 +6,7 @@
       <url>
             <loc>/posts/post-02-mostly-there/</loc>
             <lastmod>2023-05-16T23:43:21-04:00</lastmod>
-            <changefreq>daily</changefreq>
+            <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
     
@@ -15,7 +15,7 @@
       <url>
             <loc>/</loc>
             <lastmod>2023-05-16T23:43:21-04:00</lastmod>
-            <changefreq>daily</changefreq>
+            <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
     
@@ -24,7 +24,7 @@
       <url>
             <loc>/posts/post-01-my-first-post/</loc>
             <lastmod>2023-05-15T21:56:06-04:00</lastmod>
-            <changefreq>daily</changefreq>
+            <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
     
@@ -33,7 +33,7 @@
       <url>
             <loc>/posts/</loc>
             <lastmod>2023-05-15T21:52:10-04:00</lastmod>
-            <changefreq>daily</changefreq>
+            <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
     
@@ -46,9 +46,17 @@
     
   
     
+  
+    
+  
+    
+  
+    
+  
+    
       <url>
             <loc>/about/</loc>
-            <changefreq>daily</changefreq>
+            <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
     
@@ -56,7 +64,7 @@
     
       <url>
             <loc>/dolls/adeon/</loc>
-            <changefreq>daily</changefreq>
+            <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
     
@@ -64,9 +72,11 @@
     
       <url>
             <loc>/dolls/aubert/</loc>
-            <changefreq>daily</changefreq>
+            <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
+    
+  
     
   
     
@@ -78,7 +88,7 @@
     
       <url>
             <loc>/visuals/gallery/</loc>
-            <changefreq>daily</changefreq>
+            <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
     
@@ -86,33 +96,39 @@
     
       <url>
             <loc>/visuals/collection-timeline/</loc>
-            <changefreq>daily</changefreq>
+            <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
-    
-  
     
   
     
       <url>
             <loc>/dolls/</loc>
-            <changefreq>daily</changefreq>
+            <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
+    
+  
+    
+  
     
   
     
       <url>
             <loc>/sewing/dtelf/</loc>
-            <changefreq>daily</changefreq>
+            <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
     
   
     
+  
+    
+  
+    
       <url>
             <loc>/dolls/gemma/</loc>
-            <changefreq>daily</changefreq>
+            <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
     
@@ -120,15 +136,25 @@
     
       <url>
             <loc>/dolls/glaive/</loc>
-            <changefreq>daily</changefreq>
+            <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
     
   
     
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
       <url>
             <loc>/dolls/morgan/</loc>
-            <changefreq>daily</changefreq>
+            <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
     
@@ -136,23 +162,31 @@
     
       <url>
             <loc>/dolls/neoma/</loc>
-            <changefreq>daily</changefreq>
+            <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
+    
+  
+    
+  
+    
+  
     
   
     
       <url>
             <loc>/dolls/rai/</loc>
-            <changefreq>daily</changefreq>
+            <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
     
   
     
+  
+    
       <url>
             <loc>/dolls/saffron/</loc>
-            <changefreq>daily</changefreq>
+            <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
     
@@ -160,7 +194,7 @@
     
       <url>
             <loc>/dolls/seacan/</loc>
-            <changefreq>daily</changefreq>
+            <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
     
@@ -170,7 +204,7 @@
     
       <url>
             <loc>/sewing/</loc>
-            <changefreq>daily</changefreq>
+            <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
     
@@ -178,9 +212,11 @@
     
   
     
+  
+    
       <url>
             <loc>/dolls/winry/</loc>
-            <changefreq>daily</changefreq>
+            <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
     

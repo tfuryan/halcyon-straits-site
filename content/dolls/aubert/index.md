@@ -2,10 +2,11 @@
 title: "Aubert Pierlot"
 description: "Aubert Profile"
 summary: "My iconic French boy doll"
+tags: ["complete","fifth motif","70cm", "male"]
 cascade:
   showReadingTime: false
 ---
-<figure><img src="aubert-in-tree.png" alt="A doll sitting in a tree" width="500"><figcaption>Aubert Pierlot - April 2023</figcaption></figure> 
+<figure><img src="aubert-in-tree.png" alt="A male doll with short blonde hair wearing a black sweater sitting in a tree" width="500"><figcaption>Aubert Pierlot - April 2023</figcaption></figure> 
 
 | Character Profile | |
 | ----- | ---|

@@ -2,10 +2,11 @@
 title: "Glaive Wen"
 description: "Glaive Wen Profile"
 summary: "My softest boy doll"
+tags: ["complete","meeks doll","70cm", "male"]
 cascade:
   showReadingTime: false
 ---
-<figure><img src="glaive-talking.png" alt="A doll posing holding a white straw Hat" width="500"><figcaption>Glaive Wen - March 2023</figcaption></figure> 
+<figure><img src="glaive-talking.png" alt="A male doll with auburn brown hair and a brown olive colored shirt" width="500"><figcaption>Glaive Wen - March 2023</figcaption></figure> 
 
 | Character Profile | |
 | ----- | ---|

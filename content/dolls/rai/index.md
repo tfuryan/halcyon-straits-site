@@ -2,11 +2,11 @@
 title: "Rai Fletcher"
 description: "Rai Fletcher Profile"
 summary: "My moodiest boy doll"
-tags: ["dolls", "complete"]
+tags: ["complete","70cm","llt","male"]
 cascade:
   showReadingTime: false
 ---
-<figure><img src="rai-shirtless.png" alt="A doll posing holding a white straw Hat" width="500"><figcaption>Rai Fletcher - January 2023</figcaption></figure> 
+<figure><img src="rai-shirtless.png" alt="A tan male doll with dark brown hair posing with one hand holding his neck wearing a open collared white shirt" width="500"><figcaption>Rai Fletcher - January 2023</figcaption></figure> 
 
 | Character Profile | |
 | ----- | ---|

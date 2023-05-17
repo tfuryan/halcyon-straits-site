@@ -2,10 +2,11 @@
 title: "Winry Lin"
 description: "Winry Lin Profile"
 summary: "My nice chef girl doll"
+tags: ["complete","iplehouse","60cm","female"]
 cascade:
   showReadingTime: false
 ---
-<figure><img src="featured.jpg" alt="A doll posing holding a white straw Hat" width="500"><figcaption>Winry Lin - December 2020</figcaption></figure> 
+<figure><img src="featured.jpg" alt="A female doll with short brown hair wearing a white camisole top standing in a golden field" width="500"><figcaption>Winry Lin - December 2020</figcaption></figure> 
 
 | Character Profile | |
 | ----- | ---|

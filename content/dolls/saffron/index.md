@@ -2,11 +2,11 @@
 title: "Saffron Zhou"
 description: "Saffron Zhou Profile"
 summary: "My precocious child doll"
-tags: [ "wip"]
+tags: ["wip","hybrid","black cherry doll","dollstown","45cm","50cm","female"]
 cascade:
   showReadingTime: false
 ---
-<figure><img src="saffron-looking-down.png" alt="A doll posing holding a white straw Hat" width="500"><figcaption>Saffron Zhou - March 2023</figcaption></figure> 
+<figure><img src="saffron-looking-down.png" alt="A child female doll with red and black hair wearing a white cable knit sweater" width="500"><figcaption>Saffron Zhou - March 2023</figcaption></figure> 
 
 | Character Profile | |
 | ----- | ---|

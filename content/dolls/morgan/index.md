@@ -2,10 +2,11 @@
 title: "Morgan Everest"
 description: "Morgan Everest Profile"
 summary: "My narcissist doll"
+tags: ["complete","iplehouse","60cm", "female"]
 cascade:
   showReadingTime: false
 ---
-<figure><img src="morgan-shocked.png" alt="A doll posing holding a white straw Hat" width="500"><figcaption>Morgan Everest - February 2023</figcaption></figure> 
+<figure><img src="morgan-shocked.png" alt="A female doll with long blonde hair, dark red lips wearing a flowy floral top" width="500"><figcaption>Morgan Everest - February 2023</figcaption></figure> 
 
 | Character Profile | |
 | ----- | ---|

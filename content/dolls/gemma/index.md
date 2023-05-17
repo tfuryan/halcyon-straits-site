@@ -2,10 +2,11 @@
 title: "Gemma Lin"
 description: "Gemma Lin Profile"
 summary: "My hautiest girl doll"
+tags: ["complete","hybrid","raccoon doll","supia doll","60cm","female"]
 cascade:
   showReadingTime: false
 ---
-<figure><img src="featured.png" alt="A doll posing holding a white straw Hat" width="500"><figcaption>Gemma Lin - February 2023</figcaption></figure> 
+<figure><img src="featured.png" alt="A female doll with long brown hair wearing a white button up shirt with a black blazer" width="500"><figcaption>Gemma Lin - February 2023</figcaption></figure> 
 
 | Character Profile | |
 | ----- | ---|

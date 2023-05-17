@@ -2,10 +2,11 @@
 title: "Seacan Vaughn"
 description: "Seacan Profile"
 summary: "My prettiest boy doll"
+tags: ["complete","70cm","rugged realism","male"]
 cascade:
   showReadingTime: false
 ---
-<figure><img src="seacan_ruins.png" alt="A doll posing holding a white straw Hat" width="500"><figcaption>Seacan - May 2023</figcaption></figure> 
+<figure><img src="seacan_ruins.png" alt="A male doll with pink and blue hair wearing a black beanie and navy shirt with thin white stripes with overear headphones around his neck." width="500"><figcaption>Seacan - May 2023</figcaption></figure> 
 
 | Character Profile | |
 | ----- | ---|
