@@ -23,7 +23,8 @@
       <pubDate>Mon, 15 May 2023 21:56:06 -0400</pubDate>
       
       <guid>/posts/post-01-my-first-post/</guid>
-      <description>Hello!</description>
+      <description>Hello! :waving_hand:
+So since I have some extended time for the next few weeks, I thought I would go ahead and try my hand at building a website.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/post-01-my-first-post/featured.png" />
     </item>
     
@@ -33,7 +34,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Hello! :sparkles: I&amp;rsquo;m Ting, and I am a serial hobbyist.</description>
+      <description>Hello! :sparkles: I&amp;rsquo;m Ting, and I am a serial hobbyist. I learned about the Ball Jointed Doll hobby near the end of 2019, and it has been a huge creative outlet for me.</description>
       
     </item>
     
@@ -63,7 +64,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/visuals/gallery/</guid>
-      <description>One of my favorite parts of the doll hobby is the how it is a gateway to other hobbies.</description>
+      <description>One of my favorite parts of the doll hobby is the how it is a gateway to other hobbies. While there are many collectors that do every part of the customization of their dolls, I have chosen to specialize in sewing and photography.</description>
       
     </item>
     
@@ -84,7 +85,7 @@
       
       <guid>/sewing/dtelf/</guid>
       <description>Pattern Archive for DT Elf Body</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/sewing/dtelf/feature.png" />
     </item>
     
     <item>
