@@ -26,7 +26,6 @@ links = [
 #     { blogger = "https://username.blogspot.com/" },
 #     { codepen = "https://codepen.io/username" },
 #     { dev = "https://dev.to/username" },
-#     { discord = "https://discord.gg/invitecode" },
 #     { dribbble = "https://dribbble.com/username" },
 #     { facebook = "https://facebook.com/username" },
 #     { flickr = "https://www.flickr.com/photos/username/" },
@@ -60,5 +59,7 @@ links = [
 #     { twitter = "https://twitter.com/username" },
 #     { whatsapp = "https://wa.me/phone-number" },
     { youtube = "https://youtube.com/HalcyonStraits" },
+    { discord = "http://discordapp.com/users/809496694122348586" },
 #     { ko-fi = "https://ko-fi.com/username" },
+    { doa = "https://denofangels.com/threads/feedback-for-veralyne.831734/" },
 ]
