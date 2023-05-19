@@ -9,7 +9,7 @@ cascade:
 ## Patterns
 |   |   |
 |---|---|
-| <figure><img src="dtelf-smock-made.png" alt="made-smock" width="200"><figcaption><a href="dtelf-smock.pdf">Dual Layer Smock Pattern (PDF)</a></figcaption></figure> |
+| <figure><img src="dtelf-smock-made.png" alt="made-smock" width="200"><figcaption><a href="dtelf-smock.pdf" target="_blank">Dual Layer Smock Pattern (PDF)</a></figcaption></figure> |
 
 ## Measurements
 
