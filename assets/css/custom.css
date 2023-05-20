@@ -4,3 +4,7 @@
     background-size:cover; 
     background-position:center;
   }
+
+.doll-profile-img {
+  border-radius: 8px;
+}

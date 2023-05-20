@@ -7,7 +7,7 @@ cascade:
   showReadingTime: false
 type: 'dolls'
 ---
-<figure><img src="neoma_fashion_style03.png" alt="A female asian doll with deep red lips wearing a red head scarf" width="500"><figcaption>Neoma Wen - March 2023</figcaption></figure> 
+<figure><img src="neoma_fashion_style03.png" class="doll-profile-img" alt="A female asian doll with deep red lips wearing a red head scarf" width="500"><figcaption>Neoma Wen - March 2023</figcaption></figure> 
 
 | Character Profile | |
 | ----- | ---|
@@ -23,13 +23,13 @@ type: 'dolls'
 
 | Doll Profile | |
 | ----- | ---|
-| **Maker** | Phoenix Dolls |
-| **Head Sculpt** | Liu |
+| **Maker** | [Phoenix Dolls](https://web.archive.org/web/20210118160334/https://www.phoenix-dolls.com/) (Web Archive) |
+| **Head Sculpt** | [Liu](https://web.archive.org/web/20210118163859/https://www.phoenix-dolls.com/liu-gallery) (web Archive) |
 | **Resin Color** | Fine Cream |
-| **Body** | Dollshe 16F <br> Oriental |
-| **Face-up artist** | Komorebi Dolls |
-| **Body blushing artist** | Komorebi Dolls - Hands x3 |
+| **Body** | [Dollshe 16F](https://www.dollshecraft.com/16f-diana-elegant-body-shown/) <br> Oriental |
+| **Face-up artist** | [Komorebi Dolls](https://komorebidolls.com/) |
+| **Body blushing artist** | [Komorebi Dolls](https://komorebidolls.com/) - Hands x3 |
 | **Date of acquisition** | February 2021 |
 | **Provenance** | Purchased second-hand on Instagram |
-| **Eyes** | AshuraDarkEyes <br> Resin <br> Amber <br> 12/5 |
-| **Wig** | Amadiz Beauty <br> "Plisetsky" <br> Angora Fiber <br> Natural Black <br> 8-9" |
+| **Eyes** | [AshuraDarkEyes](https://www.etsy.com/shop/ashuradarkeyes) <br> Resin <br> Amber <br> 12/5 |
+| **Wig** | [Amadiz Beauty](https://www.amadiz.art/) <br> "Plisetsky" <br> Angora Fiber <br> Natural Black <br> 8-9" |
