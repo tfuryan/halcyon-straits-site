@@ -14,8 +14,8 @@ cascade:
 | **Birthday** | Februrary 04 |
 | **Gender** | Male |
 | **Occupation** | Development League Basketball Player |
-| **Spouse** | [Noema Wen](../neoma/) (divorced) |
-| **Children** | [Saffron Zhou](../saffron/) |
+| **Spouse** | [Noema Wen]({{< ref "dolls/neoma" >}}) (divorced) |
+| **Children** | [Saffron Zhou]({{< ref "dolls/saffron" >}}) |
 | **Parents** | Hester Zhou (mother) |
 
 ---

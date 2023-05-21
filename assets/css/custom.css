@@ -8,3 +8,26 @@
 .doll-profile-img {
   border-radius: 8px;
 }
+
+/* Carousel Specific Styles */
+.ratio-2-3 { padding-top: 150%; } /* 2:3 Vertical Aspect Ratio */
+
+@screen sm {
+  .sm\:ratio-2-3 { padding-top: 150%; } /* 2:3 Vertical Aspect Ratio */
+}
+
+@screen md {
+  .md\:ratio-2-3 { padding-top: 150%; } /* 2:3 Vertical Aspect Ratio */
+}
+
+@screen lg {
+  .lg\:ratio-2-3 { padding-top: 150%; } /* 2:3 Vertical Aspect Ratio */
+}
+
+@screen xl {
+  .xl\:ratio-2-3 { padding-top: 150%; } /* 2:3 Vertical Aspect Ratio */
+}
+
+@screen 2xl {
+  .2xl\:ratio-2-3 { padding-top: 150%; } /* 2:3 Vertical Aspect Ratio */
+}

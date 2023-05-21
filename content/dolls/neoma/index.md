@@ -24,7 +24,7 @@ type: 'dolls'
 | Doll Profile | |
 | ----- | ---|
 | **Maker** | [Phoenix Dolls](https://web.archive.org/web/20210118160334/https://www.phoenix-dolls.com/) (Web Archive) |
-| **Head Sculpt** | [Liu](https://web.archive.org/web/20210118163859/https://www.phoenix-dolls.com/liu-gallery) (web Archive) |
+| **Head Sculpt** | [Liu](https://web.archive.org/web/20210118163859/https://www.phoenix-dolls.com/liu-gallery) (Web Archive) |
 | **Resin Color** | Fine Cream |
 | **Body** | [Dollshe 16F](https://www.dollshecraft.com/16f-diana-elegant-body-shown/) <br> Oriental |
 | **Face-up artist** | [Komorebi Dolls](https://komorebidolls.com/) |
