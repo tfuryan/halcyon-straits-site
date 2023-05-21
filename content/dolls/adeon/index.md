@@ -3,10 +3,14 @@ title: "Adeon Zhou"
 description: "Adeon Zhou Profile"
 summary: "My doll with the most frustrating body"
 tags: ["complete","pygmalion dolls","70cm","male"]
+layout: "doll-profile"
 cascade:
   showReadingTime: false
 ---
-<figure><img src="adeon-carrying-saffron.png" class="doll-profile-img" alt="A male doll with black hair in a plaid button up shirt carrying a sleeping child doll with red and black hair on his back" width="500"><figcaption>Adeon Zhou - January 2023</figcaption></figure> 
+
+<div class="flex gap-4 flex-row flex-wrap">
+  <div><figure><img src="adeon-carrying-saffron.png" class="doll-profile-img" alt="A male doll with black hair in a plaid button up shirt carrying a sleeping child doll with red and black hair on his back" width="500"><figcaption>Adeon Zhou - January 2023</figcaption></figure> </div>
+  <div>
 
 | Character Profile | |
 | ----- | ---|
@@ -31,3 +35,6 @@ cascade:
 | **Provenance** | Purchased second-hand on [Den of Angels](https://denofangels.com) |
 | **Eyes** | [TianBa0830](https://www.instagram.com/tianba0830/) <br> Resin <br> Golden Brown (Winter 2021 - No. 01) <br> 10/5 |
 | **Wig** | [Iplehouse](https://iplehouse.com/home/?page_no=en_index&nhn1=en) <br> [IHW_M082](https://iplehouse.com/home/shop/item.php?it_id=1806185513&nhn1=en) <br> Fiber <br> Black <br> 8-9" |
+
+  </div>
+</div>

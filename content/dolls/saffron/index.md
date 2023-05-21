@@ -2,11 +2,14 @@
 title: "Saffron Zhou"
 description: "Saffron Zhou Profile"
 summary: "My precocious child doll"
+layout: "doll-profile"
 tags: ["wip","hybrid","black cherry doll","dollstown","45cm","50cm","female"]
 cascade:
   showReadingTime: false
 ---
-<figure><img src="saffron-looking-down.png" class="doll-profile-img" alt="A child female doll with red and black hair wearing a white cable knit sweater" width="500"><figcaption>Saffron Zhou - March 2023</figcaption></figure> 
+<div class="flex gap-4 flex-row flex-wrap">
+  <div><figure><img src="saffron-looking-down.png" class="doll-profile-img" alt="A child female doll with red and black hair wearing a white cable knit sweater" width="500"><figcaption>Saffron Zhou - March 2023</figcaption></figure></div>
+  <div>
 
 | Character Profile | |
 | ----- | ---|
@@ -30,3 +33,6 @@ cascade:
 | **Provenance** | OE Head - Directly from Black Cherry Dolls <br> Moon - Purchased second-hand on Den of Angels <br> DT 7YR & DT Elf Bodies - Directly from Dollstown |
 | **Eyes** | [AshuraDarkEyes](https://www.etsy.com/shop/ashuradarkeyes) <br> Resin <br> Warm Brown <br> 14/5 |
 | **Wig** | [Milklegsdolls](https://www.instagram.com/milklegsdolls/) <br> Custom <br> Alpaca Fiber <br> Red/Black Ombre <br> 17.8cm |
+
+  </div>
+</div>

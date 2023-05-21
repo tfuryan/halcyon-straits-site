@@ -2,11 +2,14 @@
 title: "Gemma Lin"
 description: "Gemma Lin Profile"
 summary: "My hautiest girl doll"
+layout: "doll-profile"
 tags: ["complete","hybrid","raccoon doll","supia doll","60cm","female"]
 cascade:
   showReadingTime: false
 ---
-<figure><img src="featured.png" class="doll-profile-img" alt="A female doll with long brown hair wearing a white button up shirt with a black blazer" width="500"><figcaption>Gemma Lin - February 2023</figcaption></figure> 
+<div class="flex gap-4 flex-row flex-wrap">
+  <div><figure><img src="featured.png" class="doll-profile-img" alt="A female doll with long brown hair wearing a white button up shirt with a black blazer" width="500"><figcaption>Gemma Lin - February 2023</figcaption></figure></div>
+  <div>
 
 | Character Profile | |
 | ----- | ---|
@@ -30,3 +33,6 @@ cascade:
 | **Provenance** | Head - Directly from Raccoon Doll <br> Body - Directly from Supia Dolls |
 | **Eyes** | [TianBa0830](https://www.instagram.com/tianba0830/) <br> Resin <br> Green (Winter 2021 - No. 02) <br> 10/5 |
 | **Wig** | [Amadiz Beauty](https://www.amadiz.art/) <br> "J-Rock Soul" <br> Alpaca Fiber <br> Brown/Blonde Ombre <br> 8-9" |
+
+  </div>
+</div>

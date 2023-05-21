@@ -2,12 +2,15 @@
 title: "Neoma Wen"
 description: "Neoma Wen Profile"
 summary: "My favorite doll"
+layout: "doll-profile"
 tags: ["complete","hybrid","phoenix doll","dollshe","60cm", "female"]
 cascade:
   showReadingTime: false
 type: 'dolls'
 ---
-<figure><img src="neoma_fashion_style03.png" class="doll-profile-img" alt="A female asian doll with deep red lips wearing a red head scarf" width="500"><figcaption>Neoma Wen - March 2023</figcaption></figure> 
+<div class="flex gap-4 flex-row flex-wrap">
+  <div><figure><img src="neoma_fashion_style03.png" class="doll-profile-img" alt="A female asian doll with deep red lips wearing a red head scarf" width="500"><figcaption>Neoma Wen - March 2023</figcaption></figure></div>
+  <div>
 
 | Character Profile | |
 | ----- | ---|
@@ -33,3 +36,6 @@ type: 'dolls'
 | **Provenance** | Purchased second-hand on Instagram |
 | **Eyes** | [AshuraDarkEyes](https://www.etsy.com/shop/ashuradarkeyes) <br> Resin <br> Amber <br> 12/5 |
 | **Wig** | [Amadiz Beauty](https://www.amadiz.art/) <br> "Plisetsky" <br> Angora Fiber <br> Natural Black <br> 8-9" |
+
+  </div>
+</div>

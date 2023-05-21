@@ -3,10 +3,13 @@ title: "Aubert Pierlot"
 description: "Aubert Profile"
 summary: "My iconic French boy doll"
 tags: ["complete","fifth motif","70cm", "male"]
+layout: "doll-profile"
 cascade:
   showReadingTime: false
 ---
-<figure><img src="aubert-in-tree.png" class="doll-profile-img" alt="A male doll with short blonde hair wearing a black sweater sitting in a tree" width="500"><figcaption>Aubert Pierlot - April 2023</figcaption></figure> 
+<div class="flex gap-4 flex-row flex-wrap">
+  <div><figure><img src="aubert-in-tree.png" class="doll-profile-img" alt="A male doll with short blonde hair wearing a black sweater sitting in a tree" width="500"><figcaption>Aubert Pierlot - April 2023</figcaption></figure></div>
+  <div>
 
 | Character Profile | |
 | ----- | ---|
@@ -28,3 +31,6 @@ cascade:
 | **Provenance** | Purchased second-hand on [Den of Angels](https://denofangels.com/doawiki/index.php?title=5th_Motif) |
 | **Eyes** | [TianBa0830](https://www.instagram.com/tianba0830/) <br> Resin <br> Blue (Summer 2022 - No. 13) <br> 14/5 |
 | **Wig** | [Amadiz Beauty](https://www.amadiz.art/) <br> [Charlize](https://www.amadiz.art/product-page/strawberry-blonde) <br> Angora <br> Strawberry Blonde <br> 8-9" |
+
+  </div>
+</div>

@@ -2,11 +2,14 @@
 title: "Morgan Everest"
 description: "Morgan Everest Profile"
 summary: "My narcissist doll"
+layout: "doll-profile"
 tags: ["complete","iplehouse","60cm", "female"]
 cascade:
   showReadingTime: false
 ---
-<figure><img src="morgan-shocked.png" class="doll-profile-img" alt="A female doll with long blonde hair, dark red lips wearing a flowy floral top" width="500"><figcaption>Morgan Everest - February 2023</figcaption></figure> 
+<div class="flex gap-4 flex-row flex-wrap">
+  <div><figure><img src="morgan-shocked.png" class="doll-profile-img" alt="A female doll with long blonde hair, dark red lips wearing a flowy floral top" width="500"><figcaption>Morgan Everest - February 2023</figcaption></figure></div>
+  <div>
 
 | Character Profile | |
 | ----- | ---|
@@ -29,3 +32,6 @@ cascade:
 | **Provenance** | Head - Purchased second-hand on Instagram <br> Body - Directly from Iplehouse |
 | **Eyes** | [AshuraDarkEyes](https://www.etsy.com/shop/ashuradarkeyes) <br> Resin <br> Green <br> 12/5 |
 | **Wig** | [Amadiz Beauty](https://www.amadiz.art/) <br> [Golden Blonde](https://www.amadiz.art/product-page/golden-blonde-2) <br> Alpaca Fiber <br> Golden Blonde <br> 8-9" |
+
+  </div>
+</div>

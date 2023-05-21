@@ -2,11 +2,14 @@
 title: "Rai Fletcher"
 description: "Rai Fletcher Profile"
 summary: "My moodiest boy doll"
+layout: "doll-profile"
 tags: ["complete","70cm","llt","male"]
 cascade:
   showReadingTime: false
 ---
-<figure><img src="rai-shirtless.png" class="doll-profile-img" class="doll-profile-img" alt="A tan male doll with dark brown hair posing with one hand holding his neck wearing a open collared white shirt" width="500"><figcaption>Rai Fletcher - January 2023</figcaption></figure> 
+<div class="flex gap-4 flex-row flex-wrap">
+  <div><figure><img src="rai-shirtless.png" class="doll-profile-img" class="doll-profile-img" alt="A tan male doll with dark brown hair posing with one hand holding his neck wearing a open collared white shirt" width="500"><figcaption>Rai Fletcher - January 2023</figcaption></figure></div>
+  <div>
 
 | Character Profile | |
 | ----- | ---|
@@ -29,3 +32,6 @@ cascade:
 | **Provenance** | Purchased directly from LLT Doll|
 | **Eyes** | [AshuraDarkEyes](https://www.etsy.com/shop/ashuradarkeyes) <br> Resin <br> Khaki <br> 14/5 |
 | **Wig** | [Amadiz Beauty](https://www.amadiz.art/) <br> "[Johnathan](https://www.amadiz.art/product-page/jonathan)" <br> Alpaca Fiber <br> Brown/Black <br> 9-10" |
+
+  </div>
+</div>

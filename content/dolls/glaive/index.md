@@ -2,11 +2,14 @@
 title: "Glaive Wen"
 description: "Glaive Wen Profile"
 summary: "My softest boy doll"
+layout: "doll-profile"
 tags: ["complete","meeks doll","70cm", "male"]
 cascade:
   showReadingTime: false
 ---
-<figure><img src="glaive-talking.png" class="doll-profile-img" alt="A male doll with auburn brown hair and a brown olive colored shirt" width="500"><figcaption>Glaive Wen - March 2023</figcaption></figure> 
+<div class="flex gap-4 flex-row flex-wrap">
+  <div><figure><img src="glaive-talking.png" class="doll-profile-img" alt="A male doll with auburn brown hair and a brown olive colored shirt" width="500"><figcaption>Glaive Wen - March 2023</figcaption></figure></div>
+  <div>
 
 | Character Profile | |
 | ----- | ---|
@@ -30,3 +33,6 @@ cascade:
 | **Provenance** | Purchased directly from Meeks Doll |
 | **Eyes** | [TianBa0830](https://www.instagram.com/tianba0830/) <br> Resin <br> Green Brown (summer 2022 - No. 07) <br> 14/5 |
 | **Wig** | [LeekeWorld](http://en.leekeworld.com/) <br> [Mark](http://en.leekeworld.com/product/mark/1730/?cate_no=54&display_group=1) <br> Fiber <br> Brown <br> 9-10" |
+
+  </div>
+</div>
