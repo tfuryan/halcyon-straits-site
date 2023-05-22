@@ -54,8 +54,26 @@
 #  weight = 30
 
 [[main]]
-  name = "Gallery"
+  name = "Visuals"
   pageRef = "visuals/gallery"
+  weight = 30
+
+[[main]]
+  name = "Gallery"
+  parent = "Visuals"
+  pageRef = "visuals/gallery"
+  weight = 30
+
+[[main]]
+  name = "Charts"
+  pageRef = "visuals/charts"
+  parent = "Visuals"
+  weight = 30
+
+[[main]]
+  name = "Timeline"
+  pageRef = "visuals/collection-timeline"
+  parent = "Visuals"
   weight = 30
 
 [[main]]
