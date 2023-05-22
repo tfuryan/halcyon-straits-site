@@ -141,36 +141,68 @@ data: {
             label: '2019',
             data: [,,,,,,,,,1,1,2],
             fill: false,
-            stepped: true
+            stepped: 'middle',
+            animations: {
+              y: {
+                duration: 1000,
+                delay: 500,
+              },
+            },
         },
         {
             label: '2020',
             data: [2,2,2,2,3,3,3,3,4,4,5,5],
             fill: false,
-            stepped: true
+            stepped: 'middle',
+            animations: {
+              y: {
+                duration: 1000,
+                delay: 1000
+              }
+            },
         },
         {
             label: '2021',
             data: [7,9,9,9,10,11,13,13,15,15,15,16],
             fill: false,
-            stepped: true
+            stepped: 'middle',
+            animations: {
+              y: {
+                duration: 1000,
+                delay: 1500
+              },
+            },
         },
         {
             label: '2022',
             data: [17,17,17,19,20,20,20,24,24,24,24,24],
             fill: false,
-            stepped: true
+            stepped: 'middle',
+            animations: {
+              y: {
+                duration: 1000,
+                delay: 2000
+              },
+            },
         },
         {
             label: '2023',
             data: [29,30,32,32,32,,,,,,,],
             fill: false,
-            stepped: true
+            stepped: 'middle',
+            animations: {
+              y: {
+                duration: 1000,
+                delay: 2500
+              },
+            },
         }
   ]
 },
 options: {
-    maintainAspectRatio: false,    
+    maintainAspectRatio: false,
+    animations: {
+    },
 }
 {{< /chart >}}
 <!-- prettier-ignore-end -->
