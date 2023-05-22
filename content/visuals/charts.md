@@ -12,8 +12,6 @@ showAuthor: false
 showWordCount: false
 showDate: false
 showPagination: false
-
-
 ---
 
 As a data person, I enjoy creating charts and graphs to showcase data and story telling. Here are some of views of my doll collections that I thought would be fun to share.
@@ -82,7 +80,9 @@ data: {
     backgroundColor: 'rgba(54, 162, 235, 0.2)',
     borderColor: 'rgba(54, 162, 235)',
     borderWidth: 1
-  }]
+  },
+
+  ]
 },
 options: {
     maintainAspectRatio: false,
@@ -122,7 +122,7 @@ options: {
 ## Cumulative Acquistion By Year (Heads & Bodies)
 
 <!-- prettier-ignore-start -->
-{{< chart >}}
+{{< chart progressiveLine="true" >}}
 type: 'line',
 data: {
   labels: ['January',
@@ -142,67 +142,40 @@ data: {
             data: [,,,,,,,,,1,1,2],
             fill: false,
             stepped: 'middle',
-            animations: {
-              y: {
-                duration: 1000,
-                delay: 500,
-              },
-            },
         },
         {
             label: '2020',
             data: [2,2,2,2,3,3,3,3,4,4,5,5],
             fill: false,
             stepped: 'middle',
-            animations: {
-              y: {
-                duration: 1000,
-                delay: 1000
-              }
-            },
         },
         {
             label: '2021',
             data: [7,9,9,9,10,11,13,13,15,15,15,16],
             fill: false,
             stepped: 'middle',
-            animations: {
-              y: {
-                duration: 1000,
-                delay: 1500
-              },
-            },
-        },
+          },
         {
             label: '2022',
             data: [17,17,17,19,20,20,20,24,24,24,24,24],
             fill: false,
             stepped: 'middle',
-            animations: {
-              y: {
-                duration: 1000,
-                delay: 2000
-              },
-            },
         },
         {
             label: '2023',
-            data: [29,30,32,32,32,,,,,,,],
+            data: [29,30,32,32,32,,,,,,,,],
             fill: false,
             stepped: 'middle',
-            animations: {
-              y: {
-                duration: 1000,
-                delay: 2500
-              },
-            },
         }
   ]
 },
 options: {
     maintainAspectRatio: false,
-    animations: {
-    },
+    animations: animation,
+    onClick: (event, elements, chart) => {
+      chart.stop();
+      chart.update();
+    }
 }
 {{< /chart >}}
 <!-- prettier-ignore-end -->

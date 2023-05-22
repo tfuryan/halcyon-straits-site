@@ -20,7 +20,7 @@ Below are a selection of some of my favorites. I hope one day to get enough so t
 
 ---
 
-{{< gallery style="w-full" >}}
+{{< gallery >}}
   <img src="gallery-images/01.png" class="grid-w50 md:grid-w33 xl:grid-w25 rounded-lg" />
   <img src="gallery-images/02.png" class="grid-w50 md:grid-w33 xl:grid-w25 rounded-lg" />
   <img src="gallery-images/03.png" class="grid-w50 md:grid-w33 xl:grid-w25 rounded-lg" />

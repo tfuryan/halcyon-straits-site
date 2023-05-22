@@ -728,12 +728,16 @@
     
 </h2>
 <!-- prettier-ignore-start -->
+
+
+
 <div class="chart-container">
     
-    <canvas id="974265318"></canvas>
+    <canvas id="715329486"></canvas>
     <script type="text/javascript">
       window.addEventListener("DOMContentLoaded", (event) => {
-        const ctx = document.getElementById("974265318");
+        const ctx = document.getElementById("715329486");
+        
         const chart = new Chart(ctx, {
           
 type: 'bar',
@@ -797,7 +801,9 @@ data: {
     backgroundColor: 'rgba(54, 162, 235, 0.2)',
     borderColor: 'rgba(54, 162, 235)',
     borderWidth: 1
-  }]
+  },
+
+  ]
 },
 options: {
     maintainAspectRatio: false,
@@ -847,12 +853,49 @@ options: {
     
 </h2>
 <!-- prettier-ignore-start -->
+
+
+
 <div class="chart-container">
     
-    <canvas id="123768594"></canvas>
+    <canvas id="897325164"></canvas>
     <script type="text/javascript">
       window.addEventListener("DOMContentLoaded", (event) => {
-        const ctx = document.getElementById("123768594");
+        const ctx = document.getElementById("897325164");
+        
+
+          const delayBetweenPoints = 25;
+          const previousY = (ctx) => ctx.index === 0 ? ctx.chart.scales.y.getPixelForValue(100) : ctx.chart.getDatasetMeta(ctx.datasetIndex).data[ctx.index - 1].getProps(['y'], true).y;
+   
+          const animation = {
+            x: {
+              type: 'number',
+              easing: 'linear',
+              from: NaN, 
+              duration(ctx) { return delayBetweenPoints*(ctx.datasetIndex+1)*ctx.dataset.data.length;},
+              delay(ctx) {
+                if (ctx.type !== 'data' || ctx.xStarted) {
+                  return 0;
+                }
+                ctx.xStarted = true;
+                return ctx.index * delayBetweenPoints;
+              }
+            },
+            y: {
+              type: 'number',
+              easing: 'linear',
+              duration(ctx) { return delayBetweenPoints*(ctx.datasetIndex+1)*ctx.dataset.data.length;},
+              from: previousY,
+              delay(ctx) {
+                if (ctx.type !== 'data' || ctx.yStarted) {
+                  return 0;
+                }
+                ctx.yStarted = true;
+                return ctx.index * delayBetweenPoints;
+              }
+            },
+          };
+        
         const chart = new Chart(ctx, {
           
 type: 'line',
@@ -873,36 +916,41 @@ data: {
             label: '2019',
             data: [,,,,,,,,,1,1,2],
             fill: false,
-            stepped: true
+            stepped: 'middle',
         },
         {
             label: '2020',
             data: [2,2,2,2,3,3,3,3,4,4,5,5],
             fill: false,
-            stepped: true
+            stepped: 'middle',
         },
         {
             label: '2021',
             data: [7,9,9,9,10,11,13,13,15,15,15,16],
             fill: false,
-            stepped: true
-        },
+            stepped: 'middle',
+          },
         {
             label: '2022',
             data: [17,17,17,19,20,20,20,24,24,24,24,24],
             fill: false,
-            stepped: true
+            stepped: 'middle',
         },
         {
             label: '2023',
-            data: [29,30,32,32,32,,,,,,,],
+            data: [29,30,32,32,32,,,,,,,,],
             fill: false,
-            stepped: true
+            stepped: 'middle',
         }
   ]
 },
 options: {
-    maintainAspectRatio: false,    
+    maintainAspectRatio: false,
+    animations: animation,
+    onClick: (event, elements, chart) => {
+      chart.stop();
+      chart.update();
+    }
 }
 
         });
