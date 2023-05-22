@@ -34,3 +34,12 @@
 @screen 2xl {
   .2xl\:ratio-2-3 { padding-top: 150%; } /* 2:3 Vertical Aspect Ratio */
 }
+
+.chart-container {
+  position: relative;
+  margin: auto;
+  height: 80vh;
+  width: 80vw;
+  max-width: 100%;
+  max-height: 800px;
+}

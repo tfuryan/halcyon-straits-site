@@ -7,8 +7,6 @@ groupByYear: false
 showAuthor: false
 showWordCount: false
 showDate: false
-showBreadcrumbs: false
-showBreadcrumbs: false
 showPagination: false
 
 ---
