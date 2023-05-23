@@ -1,0 +1,39 @@
+{{ $itemNum := .Ordinal }}
+{{ $cardYear := .Get "cardYear" }}
+{{ $cardSubYear := .Get "cardSubYear" }}
+{{ $cardImage := .Get "cardImage" }}
+{{ $text := .Get "text" }}
+
+<div class="js-timeline_item ag-timeline_item">
+    <div class="ag-timeline-card_box">
+    {{ if (modBool .Ordinal 2)  }}
+      <div class="js-timeline-card_point-box ag-timeline-card_point-box">
+        <div class="ag-timeline-card_point">{{ $cardYear }}</div>
+      </div>
+      <div class="ag-timeline-card_meta-box">
+        <div class="ag-timeline-card_meta">{{ $cardSubYear }}</div>
+      </div>
+    {{else}}
+    <div class="ag-timeline-card_meta-box">
+        <div class="ag-timeline-card_meta">{{ $cardSubYear }}</div>
+      </div>
+      <div class="js-timeline-card_point-box ag-timeline-card_point-box">
+        <div class="ag-timeline-card_point">{{ $cardYear }}</div>
+      </div>
+    {{ end }}
+    </div>
+    <div class="ag-timeline-card_item">
+      <div class="ag-timeline-card_inner">
+        <div class="ag-timeline-card_img-box">
+          <img src="{{ $cardImage }}" class="ag-timeline-card_img" width="640" height="360" />
+        </div>
+        <div class="ag-timeline-card_info">
+          <div class="ag-timeline-card_title">{{ $cardSubYear }}</div>
+          <div class="ag-timeline-card_desc">
+            {{- .Inner -}}
+          </div>
+        </div>
+      </div>
+      <div class="ag-timeline-card_arrow"></div>
+    </div>
+  </div>

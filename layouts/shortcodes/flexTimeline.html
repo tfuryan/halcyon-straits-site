@@ -1,0 +1,27 @@
+{{ $timelineName := .Get "timelineName" }}
+{{ $tagline := .Get "tagline" }}
+
+<script defer src="/js/timeflex.js"></script>
+
+<div class="ag-timeline-block">
+    <div class="ag-timeline_title-box">
+    {{ if $tagline }}
+        <div class="ag-timeline_tagline">{{ $tagline }}</div>
+    {{ end }}
+    {{ if $timelineName }}
+        <div class="ag-timeline_title">{{ $timelineName }}</div>
+    {{ end }}
+    </div>
+    <section class="ag-section">
+      <div class="ag-format-container">
+        <div class="js-timeline ag-timeline">
+          <div class="js-timeline_line ag-timeline_line">
+            <div class="js-timeline_line-progress ag-timeline_line-progress"></div>
+          </div>
+          <div class="ag-timeline_list">
+            {{- .Inner -}}
+        </div>
+    </div>
+  </div>
+</section>
+</div>
