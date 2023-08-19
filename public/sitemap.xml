@@ -4,7 +4,7 @@
   
     
       <url>
-            <loc>/posts/post-03-meeting-new-friends/</loc>
+            <loc>https://www.halcyonstraits.com/posts/post-03-meeting-new-friends/</loc>
             <lastmod>2023-05-21T12:15:14-04:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
@@ -13,7 +13,7 @@
   
     
       <url>
-            <loc>/</loc>
+            <loc>https://www.halcyonstraits.com/</loc>
             <lastmod>2023-05-21T12:15:14-04:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
@@ -22,7 +22,7 @@
   
     
       <url>
-            <loc>/visuals/</loc>
+            <loc>https://www.halcyonstraits.com/visuals/</loc>
             <lastmod>2023-05-21T00:00:00+00:00</lastmod>
             <priority>0</priority>
           </url>
@@ -30,7 +30,7 @@
   
     
       <url>
-            <loc>/visuals/charts/</loc>
+            <loc>https://www.halcyonstraits.com/visuals/charts/</loc>
             <lastmod>2023-05-21T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
@@ -39,7 +39,7 @@
   
     
       <url>
-            <loc>/visuals/timeline/</loc>
+            <loc>https://www.halcyonstraits.com/visuals/timeline/</loc>
             <lastmod>2023-05-21T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
@@ -48,7 +48,7 @@
   
     
       <url>
-            <loc>/posts/post-02-mostly-there/</loc>
+            <loc>https://www.halcyonstraits.com/posts/post-02-mostly-there/</loc>
             <lastmod>2023-05-16T23:43:21-04:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
@@ -57,7 +57,7 @@
   
     
       <url>
-            <loc>/posts/post-01-my-first-post/</loc>
+            <loc>https://www.halcyonstraits.com/posts/post-01-my-first-post/</loc>
             <lastmod>2023-05-15T21:56:06-04:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
@@ -66,7 +66,7 @@
   
     
       <url>
-            <loc>/posts/</loc>
+            <loc>https://www.halcyonstraits.com/posts/</loc>
             <lastmod>2023-05-15T21:52:10-04:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
@@ -83,7 +83,7 @@
   
     
       <url>
-            <loc>/about/</loc>
+            <loc>https://www.halcyonstraits.com/about/</loc>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
@@ -91,7 +91,7 @@
   
     
       <url>
-            <loc>/dolls/adeon/</loc>
+            <loc>https://www.halcyonstraits.com/dolls/adeon/</loc>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
@@ -99,71 +99,7 @@
   
     
       <url>
-            <loc>/dolls/aubert/</loc>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>/visuals/gallery/</loc>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>/visuals/collection-timeline/</loc>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>/dolls/</loc>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>/sewing/dtelf/</loc>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>/dolls/gemma/</loc>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>/dolls/glaive/</loc>
+            <loc>https://www.halcyonstraits.com/dolls/aubert/</loc>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
@@ -178,10 +114,8 @@
     
   
     
-  
-    
       <url>
-            <loc>/dolls/morgan/</loc>
+            <loc>https://www.halcyonstraits.com/visuals/gallery/</loc>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
@@ -189,31 +123,7 @@
   
     
       <url>
-            <loc>/dolls/neoma/</loc>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>/dolls/rai/</loc>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>/dolls/saffron/</loc>
+            <loc>https://www.halcyonstraits.com/visuals/collection-timeline/</loc>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
@@ -221,17 +131,7 @@
   
     
       <url>
-            <loc>/dolls/seacan/</loc>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>/sewing/</loc>
+            <loc>https://www.halcyonstraits.com/dolls/</loc>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
@@ -243,7 +143,107 @@
   
     
       <url>
-            <loc>/dolls/winry/</loc>
+            <loc>https://www.halcyonstraits.com/sewing/dtelf/</loc>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://www.halcyonstraits.com/dolls/gemma/</loc>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://www.halcyonstraits.com/dolls/glaive/</loc>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://www.halcyonstraits.com/dolls/morgan/</loc>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://www.halcyonstraits.com/dolls/neoma/</loc>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://www.halcyonstraits.com/dolls/rai/</loc>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://www.halcyonstraits.com/dolls/saffron/</loc>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://www.halcyonstraits.com/dolls/seacan/</loc>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://www.halcyonstraits.com/sewing/</loc>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://www.halcyonstraits.com/dolls/winry/</loc>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>

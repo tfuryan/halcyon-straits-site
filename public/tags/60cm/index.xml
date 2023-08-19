@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>60cm on Halcyon Straits</title>
-    <link>/tags/60cm/</link>
+    <link>https://www.halcyonstraits.com/tags/60cm/</link>
     <description>Recent content in 60cm on Halcyon Straits</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 Halcyon Straits</copyright>
-    <atom:link href="/tags/60cm/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.halcyonstraits.com/tags/60cm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gemma Lin</title>
-      <link>/dolls/gemma/</link>
+      <link>https://www.halcyonstraits.com/dolls/gemma/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/dolls/gemma/</guid>
+      <guid>https://www.halcyonstraits.com/dolls/gemma/</guid>
       <description>My hautiest girl doll</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/dolls/gemma/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.halcyonstraits.com/dolls/gemma/featured.png" />
     </item>
     
     <item>
       <title>Morgan Everest</title>
-      <link>/dolls/morgan/</link>
+      <link>https://www.halcyonstraits.com/dolls/morgan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/dolls/morgan/</guid>
+      <guid>https://www.halcyonstraits.com/dolls/morgan/</guid>
       <description>My narcissist doll</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/dolls/morgan/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.halcyonstraits.com/dolls/morgan/featured.png" />
     </item>
     
     <item>
       <title>Neoma Wen</title>
-      <link>/dolls/neoma/</link>
+      <link>https://www.halcyonstraits.com/dolls/neoma/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/dolls/neoma/</guid>
+      <guid>https://www.halcyonstraits.com/dolls/neoma/</guid>
       <description>My favorite doll</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/dolls/neoma/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.halcyonstraits.com/dolls/neoma/feature.png" />
     </item>
     
     <item>
       <title>Winry Lin</title>
-      <link>/dolls/winry/</link>
+      <link>https://www.halcyonstraits.com/dolls/winry/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/dolls/winry/</guid>
+      <guid>https://www.halcyonstraits.com/dolls/winry/</guid>
       <description>My nice chef girl doll</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/dolls/winry/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.halcyonstraits.com/dolls/winry/featured.jpg" />
     </item>
     
   </channel>

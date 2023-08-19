@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Halcyon Straits</title>
-    <link>/posts/</link>
+    <link>https://www.halcyonstraits.com/posts/</link>
     <description>Recent content in Posts on Halcyon Straits</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 Halcyon Straits</copyright>
-    <lastBuildDate>Mon, 15 May 2023 21:52:10 -0400</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 May 2023 21:52:10 -0400</lastBuildDate><atom:link href="https://www.halcyonstraits.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Meeting New Doll Friends</title>
-      <link>/posts/post-03-meeting-new-friends/</link>
+      <link>https://www.halcyonstraits.com/posts/post-03-meeting-new-friends/</link>
       <pubDate>Sun, 21 May 2023 12:15:14 -0400</pubDate>
       
-      <guid>/posts/post-03-meeting-new-friends/</guid>
+      <guid>https://www.halcyonstraits.com/posts/post-03-meeting-new-friends/</guid>
       <description>One of the goals that I had set out at the beginning of 2023 was to meet new people. We moved out of Texas right before the start of winter, so going out to meeting people then was a little more onerous, but with spring in full bloom, that is no longer a valid excuse.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/post-03-meeting-new-friends/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.halcyonstraits.com/posts/post-03-meeting-new-friends/featured.png" />
     </item>
     
     <item>
       <title>Mostly There</title>
-      <link>/posts/post-02-mostly-there/</link>
+      <link>https://www.halcyonstraits.com/posts/post-02-mostly-there/</link>
       <pubDate>Tue, 16 May 2023 23:43:21 -0400</pubDate>
       
-      <guid>/posts/post-02-mostly-there/</guid>
+      <guid>https://www.halcyonstraits.com/posts/post-02-mostly-there/</guid>
       <description>I have been tinkering with this site for what feels like 36 hours straight with small reprieves for meals and am running on a pitiful amount of sleep.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/post-02-mostly-there/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.halcyonstraits.com/posts/post-02-mostly-there/featured.png" />
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>/posts/post-01-my-first-post/</link>
+      <link>https://www.halcyonstraits.com/posts/post-01-my-first-post/</link>
       <pubDate>Mon, 15 May 2023 21:56:06 -0400</pubDate>
       
-      <guid>/posts/post-01-my-first-post/</guid>
+      <guid>https://www.halcyonstraits.com/posts/post-01-my-first-post/</guid>
       <description>Hello! :waving_hand:
 So since I have some extended time for the next few weeks, I thought I would go ahead and try my hand at building a website.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/post-01-my-first-post/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.halcyonstraits.com/posts/post-01-my-first-post/featured.png" />
     </item>
     
   </channel>

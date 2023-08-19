@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Halcyon Straits</title>
-    <link>/visuals/</link>
+    <link>https://www.halcyonstraits.com/visuals/</link>
     <description>Recent content on Halcyon Straits</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 Halcyon Straits</copyright>
-    <lastBuildDate>Sun, 21 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="/visuals/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.halcyonstraits.com/visuals/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Charts</title>
-      <link>/visuals/charts/</link>
+      <link>https://www.halcyonstraits.com/visuals/charts/</link>
       <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>/visuals/charts/</guid>
+      <guid>https://www.halcyonstraits.com/visuals/charts/</guid>
       <description>Charts of Doll Demographics</description>
       
     </item>
     
     <item>
       <title>Sculpt Acquisition Timeline</title>
-      <link>/visuals/timeline/</link>
+      <link>https://www.halcyonstraits.com/visuals/timeline/</link>
       <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>/visuals/timeline/</guid>
+      <guid>https://www.halcyonstraits.com/visuals/timeline/</guid>
       <description>A timeline of my sculpts</description>
       
     </item>
     
     <item>
       <title>Doll Photo Gallery</title>
-      <link>/visuals/gallery/</link>
+      <link>https://www.halcyonstraits.com/visuals/gallery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/visuals/gallery/</guid>
+      <guid>https://www.halcyonstraits.com/visuals/gallery/</guid>
       <description>One of my favorite parts of the doll hobby is the how it is a gateway to other hobbies. While there are many collectors that do every part of the customization of their dolls, I have chosen to specialize in sewing and photography.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/visuals/gallery/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.halcyonstraits.com/visuals/gallery/feature.png" />
     </item>
     
     <item>
       <title>Doll Timeline</title>
-      <link>/visuals/collection-timeline/</link>
+      <link>https://www.halcyonstraits.com/visuals/collection-timeline/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/visuals/collection-timeline/</guid>
+      <guid>https://www.halcyonstraits.com/visuals/collection-timeline/</guid>
       <description>Matcha 2019 OCT MYOU Matcha Ordered in-stock from JunkySpot Yuna 2019 DEC Fairyland PukiFee Rosanna Ordered in-stock from Denver Doll Emporium Winry Lin 2020 MAY Iplhouse Aria Ordered directly from Iplehouse Wait time: 4 Months Loxley Greene 2020 SEP Iplhouse Dean Ordered directly from Iplehouse Wait time: 3 Months Seren Huang 2020 NOV Iplhouse Yui Ordered directly from Iplehouse Wait time: 2 Months Capri 2020 DEC Fairyland RealPuki Obi Ordered in-stock from Denver Doll Emporium Gemma Lin 2021 JAN Raccoon Doll Gene Ordered directly from Raccoon Doll Wait time: 2 Months Adeon Zhou 2021 FEB Pygmalion Doll Eita Purchased Second-hand on Den of Angels Neoma Wen 2021 FEB Phoenix Dolls Liu Purchased Second-hand on Instagram Saffron Zhou 2021 MAY Black Cherry Dolls Xiao Yu (Open Eye) Ordered directly from Black Cherry Dolls Wait time: 3 Months Hester Zhou 2022 JAN Draugar Dolls Hana Ordered in-stock on Etsy Glaive Wen 2022 APR Meeks Doll Labellas Farrell Ordered directly from Meeks Doll Wait time: 5 Months Morgan Everest 2022 AUG Iplehouse Vanessa Purchased Second-hand on Instagram Seacan Vaughn 2022 AUG Rugged Realism Epsilon Purchased Second-hand on Den of Angels Trevor Clancy 2022 AUG R.</description>
       
     </item>

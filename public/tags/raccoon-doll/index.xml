@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>raccoon doll on Halcyon Straits</title>
-    <link>/tags/raccoon-doll/</link>
+    <link>https://www.halcyonstraits.com/tags/raccoon-doll/</link>
     <description>Recent content in raccoon doll on Halcyon Straits</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 Halcyon Straits</copyright>
-    <atom:link href="/tags/raccoon-doll/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.halcyonstraits.com/tags/raccoon-doll/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gemma Lin</title>
-      <link>/dolls/gemma/</link>
+      <link>https://www.halcyonstraits.com/dolls/gemma/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/dolls/gemma/</guid>
+      <guid>https://www.halcyonstraits.com/dolls/gemma/</guid>
       <description>My hautiest girl doll</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/dolls/gemma/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.halcyonstraits.com/dolls/gemma/featured.png" />
     </item>
     
   </channel>
