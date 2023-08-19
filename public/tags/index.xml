@@ -5,7 +5,9 @@
     <link>/tags/</link>
     <description>Recent content in Tags on Halcyon Straits</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>© 2023 Halcyon Straits</copyright>
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>45cm</title>
       <link>/tags/45cm/</link>
@@ -13,6 +15,7 @@
       
       <guid>/tags/45cm/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -22,6 +25,7 @@
       
       <guid>/tags/50cm/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -31,6 +35,7 @@
       
       <guid>/tags/60cm/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -40,6 +45,7 @@
       
       <guid>/tags/70cm/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -49,6 +55,7 @@
       
       <guid>/tags/black-cherry-doll/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -58,6 +65,7 @@
       
       <guid>/tags/complete/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -67,6 +75,7 @@
       
       <guid>/tags/dollshe/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -76,6 +85,7 @@
       
       <guid>/tags/dollstown/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -85,6 +95,7 @@
       
       <guid>/tags/female/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -94,6 +105,7 @@
       
       <guid>/tags/fifth-motif/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -103,6 +115,7 @@
       
       <guid>/tags/hybrid/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -112,6 +125,7 @@
       
       <guid>/tags/iplehouse/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -121,6 +135,7 @@
       
       <guid>/tags/llt/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -130,6 +145,7 @@
       
       <guid>/tags/male/</guid>
       <description>This is a page for all my male dolls!</description>
+      
     </item>
     
     <item>
@@ -139,6 +155,7 @@
       
       <guid>/tags/meeks-doll/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -148,6 +165,7 @@
       
       <guid>/tags/phoenix-doll/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -157,6 +175,7 @@
       
       <guid>/tags/pygmalion-dolls/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -166,6 +185,7 @@
       
       <guid>/tags/raccoon-doll/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -175,6 +195,7 @@
       
       <guid>/tags/rugged-realism/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -184,6 +205,7 @@
       
       <guid>/tags/supia-doll/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -193,6 +215,7 @@
       
       <guid>/tags/wip/</guid>
       <description></description>
+      
     </item>
     
   </channel>

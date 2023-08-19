@@ -5,7 +5,9 @@
     <link>/tags/fifth-motif/</link>
     <description>Recent content in fifth motif on Halcyon Straits</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="/tags/fifth-motif/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>© 2023 Halcyon Straits</copyright>
+    <atom:link href="/tags/fifth-motif/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aubert Pierlot</title>
       <link>/dolls/aubert/</link>
@@ -13,6 +15,7 @@
       
       <guid>/dolls/aubert/</guid>
       <description>My iconic French boy doll</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/dolls/aubert/featured.png" />
     </item>
     
   </channel>

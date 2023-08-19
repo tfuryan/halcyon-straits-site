@@ -41,6 +41,9 @@ Below are a selection of some of my favorites. I hope one day to get enough so t
   <img src="gallery-images/18.png" class="grid-w50 md:grid-w33 xl:grid-w25 rounded-lg" />
   <img src="gallery-images/19.png" class="grid-w50 md:grid-w33 xl:grid-w25 rounded-lg" />
   <img src="gallery-images/20.png" class="grid-w50 md:grid-w33 xl:grid-w25 rounded-lg" />
+  <img src="gallery-images/21.png" class="grid-w50 md:grid-w33 xl:grid-w25 rounded-lg" />
+  <img src="gallery-images/22.png" class="grid-w50 md:grid-w33 xl:grid-w25 rounded-lg" />
+  <img src="gallery-images/23.png" class="grid-w50 md:grid-w33 xl:grid-w25 rounded-lg" />
 {{< /gallery >}}
 
 ---
