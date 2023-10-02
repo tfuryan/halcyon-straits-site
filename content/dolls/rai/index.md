@@ -26,9 +26,9 @@ cascade:
 | **Head Sculpt** | [Neil](https://lltdoll.com/store/store.html?show=wholeDoll/NEIL1.html) |
 | **Resin Color** | Light Tan |
 | **Body** | [LLT Ballerino](https://lltdoll.com/store/store.html?show=wholeDoll/NEIL1.html) <br> Light Tan |
-| **Face-up artist** | [Komorebi Dolls](https://komorebidolls.com/) |
-| **Body blushing artist** | [Komorebi Dolls](https://komorebidolls.com/) - Torso & Hands|
-| **Date of acquisition** | August 2022 |
+| **Face-up Artist** | [Komorebi Dolls](https://komorebidolls.com/) |
+| **Body Blushing Artist** | [Komorebi Dolls](https://komorebidolls.com/) - Torso & Hands|
+| **Date of Acquisition** | August 2022 |
 | **Provenance** | Purchased directly from LLT Doll|
 | **Eyes** | [AshuraDarkEyes](https://www.etsy.com/shop/ashuradarkeyes) <br> Resin <br> Khaki <br> 14/5 |
 | **Wig** | [Amadiz Beauty](https://www.amadiz.art/) <br> "[Johnathan](https://www.amadiz.art/product-page/jonathan)" <br> Alpaca Fiber <br> Brown/Black <br> 9-10" |

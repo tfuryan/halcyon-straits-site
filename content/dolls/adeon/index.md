@@ -30,8 +30,8 @@ cascade:
 | **Head Sculpt** | [Eita](https://pygmaliondolls.com/product/eitahead/144/?cate_no=25&display_group=1) |
 | **Resin Color** | White |
 | **Body** | [Pygmalion Dolls TEIA 71](https://pygmaliondolls.com/product/teia71-new-body/106/?cate_no=85&display_group=1)<br> White |
-| **Face-up artist** | [DollFaced Studio](https://www.instagram.com/dollfacedstudio/) |
-| **Date of acquisition** | February 2021 |
+| **Face-up Artist** | [DollFaced Studio](https://www.instagram.com/dollfacedstudio/) |
+| **Date of Acquisition** | February 2021 |
 | **Provenance** | Purchased second-hand on [Den of Angels](https://denofangels.com) |
 | **Eyes** | [TianBa0830](https://www.instagram.com/tianba0830/) <br> Resin <br> Golden Brown (Winter 2021 - No. 01) <br> 10/5 |
 | **Wig** | [Iplehouse](https://iplehouse.com/home/?page_no=en_index&nhn1=en) <br> [IHW_M082](https://iplehouse.com/home/shop/item.php?it_id=1806185513&nhn1=en) <br> Fiber <br> Black <br> 8-9" |

@@ -18,5 +18,15 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.halcyonstraits.com/dolls/adeon/featured.png" />
     </item>
     
+    <item>
+      <title>Adja Binti</title>
+      <link>https://www.halcyonstraits.com/dolls/adja/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.halcyonstraits.com/dolls/adja/</guid>
+      <description>My doll with the most frustrating body</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.halcyonstraits.com/dolls/adja/featured.png" />
+    </item>
+    
   </channel>
 </rss>

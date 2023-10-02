@@ -26,8 +26,8 @@ cascade:
 | **Head Sculpt** | Venitu |
 | **Resin Color** | Copper Oriental |
 | **Body** | Fifth Motif Timeless Body <br> Copper Oriental |
-| **Face-up artist** | SD Ink |
-| **Date of acquisition** | March 2023 |
+| **Face-up Artist** | SD Ink |
+| **Date of Acquisition** | March 2023 |
 | **Provenance** | Purchased second-hand on [Den of Angels](https://denofangels.com/doawiki/index.php?title=5th_Motif) |
 | **Eyes** | [TianBa0830](https://www.instagram.com/tianba0830/) <br> Resin <br> Blue (Summer 2022 - No. 13) <br> 14/5 |
 | **Wig** | [Amadiz Beauty](https://www.amadiz.art/) <br> [Charlize](https://www.amadiz.art/product-page/strawberry-blonde) <br> Angora <br> Strawberry Blonde <br> 8-9" |

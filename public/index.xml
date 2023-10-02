@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 Halcyon Straits</copyright>
-    <lastBuildDate>Sun, 21 May 2023 12:15:14 -0400</lastBuildDate><atom:link href="https://www.halcyonstraits.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.halcyonstraits.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Edits</title>
+      <link>https://www.halcyonstraits.com/visuals/ai/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.halcyonstraits.com/visuals/ai/</guid>
+      <description>Running some of my doll photos through Stable Diffusion</description>
+      
+    </item>
+    
     <item>
       <title>Meeting New Doll Friends</title>
       <link>https://www.halcyonstraits.com/posts/post-03-meeting-new-friends/</link>
@@ -77,6 +87,16 @@ So since I have some extended time for the next few weeks, I thought I would go 
       <guid>https://www.halcyonstraits.com/dolls/adeon/</guid>
       <description>My doll with the most frustrating body</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.halcyonstraits.com/dolls/adeon/featured.png" />
+    </item>
+    
+    <item>
+      <title>Adja Binti</title>
+      <link>https://www.halcyonstraits.com/dolls/adja/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.halcyonstraits.com/dolls/adja/</guid>
+      <description>My doll with the most frustrating body</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.halcyonstraits.com/dolls/adja/featured.png" />
     </item>
     
     <item>

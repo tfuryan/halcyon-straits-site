@@ -30,9 +30,9 @@ type: 'dolls'
 | **Head Sculpt** | [Liu](https://web.archive.org/web/20210118163859/https://www.phoenix-dolls.com/liu-gallery) (Web Archive) |
 | **Resin Color** | Fine Cream |
 | **Body** | [Dollshe 16F](https://www.dollshecraft.com/16f-diana-elegant-body-shown/) <br> Oriental |
-| **Face-up artist** | [Komorebi Dolls](https://komorebidolls.com/) |
-| **Body blushing artist** | [Komorebi Dolls](https://komorebidolls.com/) - Hands x3 |
-| **Date of acquisition** | February 2021 |
+| **Face-up Artist** | [Komorebi Dolls](https://komorebidolls.com/) |
+| **Body Blushing Artist** | [Komorebi Dolls](https://komorebidolls.com/) - Hands x3 |
+| **Date of Acquisition** | February 2021 |
 | **Provenance** | Purchased second-hand on Instagram |
 | **Eyes** | [AshuraDarkEyes](https://www.etsy.com/shop/ashuradarkeyes) <br> Resin <br> Amber <br> 12/5 |
 | **Wig** | [Amadiz Beauty](https://www.amadiz.art/) <br> "Plisetsky" <br> Angora Fiber <br> Natural Black <br> 8-9" |

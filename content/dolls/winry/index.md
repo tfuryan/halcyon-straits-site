@@ -27,9 +27,9 @@ cascade:
 | **Head Sculpt** | [Aria](https://iplehouse.com/home/shop/item.php?it_id=1565562546&nhn1=en) |
 | **Resin Color** | Peach Gold |
 | **Body** | [Iplehouse nYID](https://iplehouse.com/home/bbs/board.php?bo_table=bjd_blog_body&wr_id=68&ca_name=YID%20G&nhn1=en) <br> Peach Gold |
-| **Face-up artist** | Iplehouse |
-| **Body blushing artist** | Iplehouse - Hands|
-| **Date of acquisition** | May 2020 |
+| **Face-up Artist** | Iplehouse |
+| **Body Blushing Artist** | Iplehouse - Hands|
+| **Date of Acquisition** | May 2020 |
 | **Provenance** | Directly from Iplehouse |
 | **Eyes** | [Eyeco Ltd](https://eyecoltd.com/) <br> Silicone <br> [A084](https://eyecoltd.com/product/a084/) <br> 11/5 |
 | **Wig** | [LeekeWorld](http://en.leekeworld.com/) <br> [LR-065_E](http://en.leekeworld.com/product/lr-065e/153/?cate_no=57&display_group=1)  <br> Fiber <br> Maroon/Natural Black <br> 8-9" |

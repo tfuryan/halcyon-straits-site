@@ -112,5 +112,10 @@ Fifth Motif Venitu<br>
 Second-hand from Den of Angels
 {{< /flexTimelineItem >}}
 
+{{< flexTimelineItem  cardYear="2023" cardSubYear="22 SEPTEMBER" cardImage="images/draugar-dolls-selene.png"  >}}
+Draugar Dolls Selene<br>
+Ordered directly from Draugar Dolls
+{{< /flexTimelineItem >}}
+
 
 {{< /flexTimeline >}}

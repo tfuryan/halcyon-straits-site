@@ -26,9 +26,9 @@ cascade:
 | **Head Sculpt** | [Epsilon](https://ruggedrealism.wordpress.com/2019/05/21/epsilon/) |
 | **Resin Color** | Truly Divine |
 | **Body** | [Rugged Realism Alphabets](https://ruggedrealism.wordpress.com/2019/05/22/about-the-alphabet-series/) <br> Truly Divine |
-| **Face-up artist** | [Komorebi Dolls](https://komorebidolls.com/) |
-| **Body blushing artist** | Unknown |
-| **Date of acquisition** | Body - May 2022 <br> Head - August 2022 |
+| **Face-up Artist** | [Komorebi Dolls](https://komorebidolls.com/) |
+| **Body Blushing Artist** | Unknown |
+| **Date of Acquisition** | Body - May 2022 <br> Head - August 2022 |
 | **Provenance** | Purchased second-hand on [Den of Angels](https://denofangels.com/) |
 | **Eyes** | [AshuraDarkEyes](https://www.etsy.com/shop/ashuradarkeyes) <br> Resin <br> Brown <br> 14/5 |
 | **Wig** | [Luts](https://eluts.com/) <br> [DW 277](https://eluts.com/product/dw-227-pinkblue/187/?cate_no=166&display_group=1) <br> Heat Resistant Fiber <br> Pink/Blue <br> 9-10" |

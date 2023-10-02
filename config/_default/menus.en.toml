@@ -59,7 +59,7 @@
   weight = 30
 
 [[main]]
-  name = "Gallery"
+  name = "Photo Gallery"
   parent = "Visuals"
   pageRef = "visuals/gallery"
   weight = 30
@@ -69,6 +69,12 @@
   pageRef = "visuals/charts"
   parent = "Visuals"
   weight = 30
+
+[[main]]
+  name = "AI Edits"
+  pageRef = "visuals/ai"
+  parent = "Visuals"
+  weight = 31
 
 [[main]]
   name = "Timeline"

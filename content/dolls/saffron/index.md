@@ -28,8 +28,8 @@ cascade:
 | **Head Sculpt** | [Xiao Yu](https://blackcherrydolls.com/shop/XiaoYu) |
 | **Resin Color** | Normal |
 | **Body** | [Dollstown 7YR](https://dollstown.com/product/7yr-girl-body-ver2015/17/category/26/display/1/) - Age 7 <br> [Dollstown Elf](https://dollstown.com/product/elf-body-ver2013/16/category/26/display/1/) - Age 10 <br> Both in Fresh |
-| **Face-up artist** | [Milkweed and Honey BJDs](https://www.etsy.com/shop/MilkweedandHoneyBJDs) |
-| **Date of acquisition** | OE Head - May 2021 <br> Moon (SP) Head - July 2021 <br> DT 7YR Body - August 2021 <br> DT Elf - August 2021 |
+| **Face-up Artist** | [Milkweed and Honey BJDs](https://www.etsy.com/shop/MilkweedandHoneyBJDs) |
+| **Date of Acquisition** | OE Head - May 2021 <br> Moon (SP) Head - July 2021 <br> DT 7YR Body - August 2021 <br> DT Elf - August 2021 |
 | **Provenance** | OE Head - Directly from Black Cherry Dolls <br> Moon - Purchased second-hand on Den of Angels <br> DT 7YR & DT Elf Bodies - Directly from Dollstown |
 | **Eyes** | [AshuraDarkEyes](https://www.etsy.com/shop/ashuradarkeyes) <br> Resin <br> Warm Brown <br> 14/5 |
 | **Wig** | [Milklegsdolls](https://www.instagram.com/milklegsdolls/) <br> Custom <br> Alpaca Fiber <br> Red/Black Ombre <br> 17.8cm |

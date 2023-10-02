@@ -42,7 +42,7 @@ data: {
     data: [2, <!-- Black Cherry Dolls --> 
              3, <!-- DollShe --> 
              0, <!-- Dollstown --> 
-             1, <!-- Draugar Dolls --> 
+             2, <!-- Draugar Dolls --> 
              1, <!-- Fifth Motif --> 
              4, <!-- Iplehouse --> 
              1, <!-- LLT --> 
@@ -64,7 +64,7 @@ data: {
     data: [0, <!-- Black Cherry Dolls --> 
             1, <!-- DollShe --> 
             4, <!-- Dollstown --> 
-            0, <!-- Draugar Dolls --> 
+            1, <!-- Draugar Dolls --> 
             1, <!-- Fifth Motif --> 
             3, <!-- Iplehouse --> 
             1, <!-- LLT --> 
@@ -163,7 +163,7 @@ data: {
         },
         {
             label: '2023',
-            data: [29,30,32,32,32,,,,,,,,],
+            data: [29,30,32,32,32,32,32,32,34,,,,],
             fill: false,
             stepped: 'middle',
         }
