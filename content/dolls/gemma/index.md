@@ -17,7 +17,6 @@ cascade:
 | **Birthday** | January 10 |
 | **Gender** | Female |
 | **Occupation** | Executive Assistant |
-| **Relatives** | [Winry Lin]({{< ref "dolls/winry" >}}) (sister) |
 
 ---
 

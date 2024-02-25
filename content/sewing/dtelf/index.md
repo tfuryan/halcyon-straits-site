@@ -15,7 +15,7 @@ cascade:
 
 ---
 
-I measured my doll as guided by [Fearless Makers](https://www.fearlessmakers.com/manual/taking-measurements/measuring-a-model). With these measurements, you can generate slopers/blocks as well as other basic patterns. I use many of the patterns available as a starting point and modify as I want changes to fit and style.
+I measured my doll as guided by [Pattern Maker Pro](https://patternmakerpro.com/manual/taking-measurements/measuring-a-model). With these measurements, you can generate slopers/blocks as well as other basic patterns. I use many of the patterns available as a starting point and modify as I want changes to fit and style.
 
 <details open>
 <summary>{{< button target="_self" >}}

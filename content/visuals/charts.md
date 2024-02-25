@@ -21,39 +21,39 @@ As a data person, I enjoy creating charts and graphs to showcase data and story 
 {{< chart >}}
 type: 'bar',
 data: {
-  labels: ['Black Cherry Dolls',
+  labels: [ 'ATSDoll Studio',
+            'Black Cherry Dolls',
             'DollShe',
             'Dollstown',
             'Draugar Dolls',
+            'Fan/FF Studio',
             'Fifth Motif',
+            'Impldoll',
             'Iplehouse',
             'LLT',
-            'LoongSoul',
             'Meeks Doll',
             'Phoenix Dolls',
             'Pygmalion Dolls',
-            'R.Dean',
             'Rugged Realism',
             'Supia Dolls',
-            'Twigling',
         ],
   datasets: [{
     label: 'Heads',
-    data: [2, <!-- Black Cherry Dolls --> 
-             3, <!-- DollShe --> 
+    data: [  1, <!-- ATSDoll Studio --> 
+             2, <!-- Black Cherry Dolls --> 
+             0, <!-- DollShe --> 
              0, <!-- Dollstown --> 
              2, <!-- Draugar Dolls --> 
+             1, <!-- Fan/FF Studio --> 
              1, <!-- Fifth Motif --> 
-             4, <!-- Iplehouse --> 
+             1, <!-- Impldoll --> 
+             2, <!-- Iplehouse --> 
              1, <!-- LLT --> 
-             0, <!-- LoongSoul --> 
              1, <!-- Meeks Dolls --> 
              1, <!-- Phoenix Dolls --> 
              1, <!-- Pygmalion Dolls --> 
-             1, <!-- R.Dean --> 
              6, <!-- Rugged Realism --> 
              0, <!-- Supia Dolls --> 
-             0, <!-- Twigling --> 
         ],
     backgroundColor: 'rgba(153, 102, 255, 0.2)',
     borderColor: 'rgba(153, 102, 255)',
@@ -61,21 +61,21 @@ data: {
   },
   {
     label: 'Bodies',
-    data: [0, <!-- Black Cherry Dolls --> 
+    data: [ 1, <!-- ATSDoll Studio --> 
+            0, <!-- Black Cherry Dolls --> 
             1, <!-- DollShe --> 
-            4, <!-- Dollstown --> 
+            3, <!-- Dollstown --> 
             1, <!-- Draugar Dolls --> 
+            1, <!-- Fan/FF Studio --> 
             1, <!-- Fifth Motif --> 
-            3, <!-- Iplehouse --> 
+            2, <!-- Impldoll --> 
+            1, <!-- Iplehouse --> 
             1, <!-- LLT --> 
-            1, <!-- LoongSoul --> 
             1, <!-- Meeks Dolls --> 
             0, <!-- Phoenix Dolls --> 
-            1, <!-- Pygmalion Dolls --> 
-            0, <!-- R.Dean --> 
+            0, <!-- Pygmalion Dolls --> 
             4, <!-- Rugged Realism --> 
             1, <!-- Supia Dolls --> 
-            1, <!-- Twigling --> 
         ],
     backgroundColor: 'rgba(54, 162, 235, 0.2)',
     borderColor: 'rgba(54, 162, 235)',
@@ -163,10 +163,16 @@ data: {
         },
         {
             label: '2023',
-            data: [29,30,32,32,32,32,32,32,34,,,,],
+            data: [29,30,32,32,32,32,32,32,34,36,34,35],
             fill: false,
             stepped: 'middle',
-        }
+        },
+        {
+            label: '2024',
+            data: [35,35,,,,,,,,,,],
+            fill: false,
+            stepped: 'middle',
+        }        
   ]
 },
 options: {
