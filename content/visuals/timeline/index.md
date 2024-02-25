@@ -33,13 +33,14 @@ Ordered in-stock from Denver Doll Emporium
 {{< flexTimelineItem  cardYear="2020" cardSubYear="23 MAY" cardImage="images/iplehouse-aria.png"  >}}
 Iplehouse Aria<br>
 Ordered directly from Iplehouse <br>
-<a href={{< ref "/dolls/winry" >}}  >Winry Lin</a>
+SOLD
 
 {{< /flexTimelineItem >}}
 
 {{< flexTimelineItem  cardYear="2020" cardSubYear="18 SEPTEMBER" cardImage="images/iplehouse-dean.png"  >}}
 Iplehouse Dean<br>
-Ordered directly from Iplehouse
+Ordered directly from Iplehouse<br>
+SOLD
 {{< /flexTimelineItem >}}
 
 {{< flexTimelineItem  cardYear="2020" cardSubYear="02 NOVEMBER" cardImage="images/iplehouse-yui.png"  >}}
