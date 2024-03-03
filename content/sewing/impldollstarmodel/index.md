@@ -106,7 +106,7 @@ Extended
 |Side Waist Depth Front|Side waist point to center front neck point.|12.5|
 |Strap Front|Side neck point to armpit point.|6|
 |Thigh Circumference|Circumference of the upper thigh.|17.5|
-|Thigh Height|Floor to thigh measurement.|2431|
+|Thigh Height|Floor to thigh measurement.|31|
 |Underarm Length|Armpit point to wrist.|16|
 |Underbust Height|Underbust level to side waist point.|3.5|
 |Underbust Width Back|Back Side-to-side under bust in back.|11.5|
