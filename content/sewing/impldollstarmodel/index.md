@@ -9,7 +9,7 @@ cascade:
 ## Patterns
 |   |   |
 |---|---|
-| <figure><img src="impldoll-dress.jpeg" alt="doll with dress" width="200"><figcaption><a href="impldoll-fitted-dress.pdf" target="_blank">Fitted Knee Length Dress with Flounce Sleeves (PDF)</a></figcaption></figure> |
+| <figure><img src="impldollstarmodel.jpeg" alt="doll with dress" width="200"><figcaption><a href="impldoll-fitted-dress.pdf" target="_blank">Fitted Knee Length Dress with Flounce Sleeves (PDF)</a></figcaption></figure> |
 
 ## Measurements
 
