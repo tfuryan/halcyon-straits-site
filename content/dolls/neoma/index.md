@@ -4,6 +4,7 @@ description: "Neoma Wen Profile"
 summary: "My favorite doll"
 layout: "doll-profile"
 tags: ["complete","hybrid","phoenix doll","dollshe","60cm", "female"]
+date: 2023-10-02T11:45:31-04:00
 cascade:
   showReadingTime: false
 type: 'dolls'

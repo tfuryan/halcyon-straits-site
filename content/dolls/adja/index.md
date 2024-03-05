@@ -4,6 +4,7 @@ description: "Adja Binti Profile"
 summary: "My doll with the most frustrating body"
 tags: ["complete","pygmalion dolls","70cm","male"]
 layout: "doll-profile"
+date: 2023-10-02T11:45:31-04:00
 cascade:
   showReadingTime: false
 ---
