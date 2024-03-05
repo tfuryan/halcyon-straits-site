@@ -2,7 +2,7 @@
 title: "Adeon Zhou"
 description: "Adeon Zhou Profile"
 summary: "My doll with the most frustrating body"
-tags: ["complete","pygmalion dolls","70cm","male","hybrid"]
+tags: ["complete","pygmalion dolls","dollstown","70cm","male","hybrid"]
 layout: "doll-profile"
 cascade:
   showReadingTime: false
@@ -19,8 +19,8 @@ cascade:
 | **Gender** | Male |
 | **Occupation** | Development League Basketball Player |
 | **Spouse** | [Noema Wen]({{< ref "dolls/neoma" >}}) (divorced) |
-| **Children** | [Saffron Zhou]({{< ref "dolls/saffron" >}}) |
-| **Parents** | Hester Zhou (mother) |
+| **Children** | [Saffron Zhou]({{< ref "dolls/saffron" >}}) (daughter) |
+| **Parents** | [Hester Zhou]({{< ref "dolls/hester" >}}) (mother) |
 
 ---
 

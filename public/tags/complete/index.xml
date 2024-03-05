@@ -7,15 +7,55 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Halcyon Straits</copyright>
-    <lastBuildDate>Tue, 05 Mar 2024 15:40:02 -0500</lastBuildDate><atom:link href="https://www.halcyonstraits.com/tags/complete/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Mar 2024 16:45:58 -0500</lastBuildDate><atom:link href="https://www.halcyonstraits.com/tags/complete/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neoma Wen</title>
+      <link>https://www.halcyonstraits.com/dolls/neoma/</link>
+      <pubDate>Tue, 05 Mar 2024 16:45:58 -0500</pubDate>
+      
+      <guid>https://www.halcyonstraits.com/dolls/neoma/</guid>
+      <description>My favorite doll</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.halcyonstraits.com/dolls/neoma/feature.png" />
+    </item>
+    
+    <item>
+      <title>Hester Chang</title>
+      <link>https://www.halcyonstraits.com/dolls/hester/</link>
+      <pubDate>Tue, 05 Mar 2024 16:45:54 -0500</pubDate>
+      
+      <guid>https://www.halcyonstraits.com/dolls/hester/</guid>
+      <description>The Matriarch</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.halcyonstraits.com/dolls/hester/feature.png" />
+    </item>
+    
+    <item>
+      <title>Adeon Zhou</title>
+      <link>https://www.halcyonstraits.com/dolls/adeon/</link>
+      <pubDate>Tue, 05 Mar 2024 16:45:05 -0500</pubDate>
+      
+      <guid>https://www.halcyonstraits.com/dolls/adeon/</guid>
+      <description>My doll with the most frustrating body</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.halcyonstraits.com/dolls/adeon/featured.png" />
+    </item>
+    
     <item>
       <title>Gemma Lin</title>
       <link>https://www.halcyonstraits.com/dolls/gemma/</link>
-      <pubDate>Tue, 05 Mar 2024 15:40:02 -0500</pubDate>
+      <pubDate>Tue, 05 Mar 2024 16:44:23 -0500</pubDate>
       
       <guid>https://www.halcyonstraits.com/dolls/gemma/</guid>
       <description>My hautiest girl doll</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.halcyonstraits.com/dolls/gemma/featured.png" />
+    </item>
+    
+    <item>
+      <title>Adja Binti</title>
+      <link>https://www.halcyonstraits.com/dolls/adja/</link>
+      <pubDate>Tue, 05 Mar 2024 16:32:05 -0500</pubDate>
+      
+      <guid>https://www.halcyonstraits.com/dolls/adja/</guid>
+      <description>My doll with the most frustrating body</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.halcyonstraits.com/dolls/adja/featured.png" />
     </item>
     
     <item>
@@ -26,16 +66,6 @@
       <guid>https://www.halcyonstraits.com/dolls/aubert/</guid>
       <description>My iconic French boy doll</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.halcyonstraits.com/dolls/aubert/featured.png" />
-    </item>
-    
-    <item>
-      <title>Adeon Zhou</title>
-      <link>https://www.halcyonstraits.com/dolls/adeon/</link>
-      <pubDate>Tue, 05 Mar 2024 15:32:51 -0500</pubDate>
-      
-      <guid>https://www.halcyonstraits.com/dolls/adeon/</guid>
-      <description>My doll with the most frustrating body</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.halcyonstraits.com/dolls/adeon/featured.png" />
     </item>
     
     <item>
@@ -59,16 +89,6 @@
     </item>
     
     <item>
-      <title>Adja Binti</title>
-      <link>https://www.halcyonstraits.com/dolls/adja/</link>
-      <pubDate>Tue, 05 Mar 2024 15:24:58 -0500</pubDate>
-      
-      <guid>https://www.halcyonstraits.com/dolls/adja/</guid>
-      <description>My doll with the most frustrating body</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.halcyonstraits.com/dolls/adja/featured.png" />
-    </item>
-    
-    <item>
       <title>Morgan Everest</title>
       <link>https://www.halcyonstraits.com/dolls/morgan/</link>
       <pubDate>Tue, 05 Mar 2024 15:24:41 -0500</pubDate>
@@ -86,16 +106,6 @@
       <guid>https://www.halcyonstraits.com/dolls/seacan/</guid>
       <description>My prettiest boy doll</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.halcyonstraits.com/dolls/seacan/featured.png" />
-    </item>
-    
-    <item>
-      <title>Neoma Wen</title>
-      <link>https://www.halcyonstraits.com/dolls/neoma/</link>
-      <pubDate>Tue, 05 Mar 2024 15:16:52 -0500</pubDate>
-      
-      <guid>https://www.halcyonstraits.com/dolls/neoma/</guid>
-      <description>My favorite doll</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.halcyonstraits.com/dolls/neoma/feature.png" />
     </item>
     
   </channel>

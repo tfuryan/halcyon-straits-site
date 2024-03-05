@@ -3,7 +3,7 @@ title: "Neoma Wen"
 description: "Neoma Wen Profile"
 summary: "My favorite doll"
 layout: "doll-profile"
-tags: ["complete","hybrid","phoenix doll","dollshe","60cm", "female"]
+tags: ["complete","hybrid","phoenix doll","impldoll","60cm", "female"]
 cascade:
   showReadingTime: false
 type: 'dolls'
@@ -19,7 +19,7 @@ type: 'dolls'
 | **Gender** | Female |
 | **Occupation** | Corporate Lawyer |
 | **Spouse** | [Adeon Zhou]({{< ref "dolls/adeon" >}}) (divorced) |
-| **Children** | [Saffron Zhou]({{< ref "dolls/saffron" >}}) |
+| **Children** | [Saffron Zhou]({{< ref "dolls/saffron" >}}) (daughter)|
 | **Relatives** | [Glaive Wen]({{< ref "dolls/glaive" >}}) (brother) |
 
 ---
@@ -33,9 +33,9 @@ type: 'dolls'
 | **Face-up Artist** | [Komorebi Dolls](https://komorebidolls.com/) |
 | **Body Blushing Artist** | [Komorebi Dolls](https://komorebidolls.com/) - Hands x3 |
 | **Date of Acquisition** | February 2021 |
-| **Provenance** | Purchased second-hand on Instagram |
+| **Provenance** | Head - Purchased second-hand on Instagram <br> Body - Directly from [Impldoll](http://www.impldoll.com/) |
 | **Eyes** | [AshuraDarkEyes](https://www.etsy.com/shop/ashuradarkeyes) <br> Resin <br> Amber <br> 12/5 |
-| **Wig** | [Milklegsdolls](https://www.instagram.com/milklegsdolls/) <br> Custom <br> Alpaca Fiber <br> Short Black OmbBobre <br> 19.2cm |
+| **Wig** | [Milklegsdolls](https://www.instagram.com/milklegsdolls/) <br> Custom <br> Alpaca Fiber <br> Short Black Bob <br> 19.2cm |
 
   </div>
 </div>

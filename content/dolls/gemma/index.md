@@ -3,7 +3,7 @@ title: "Gemma Lin"
 description: "Gemma Lin Profile"
 summary: "My hautiest girl doll"
 layout: "doll-profile"
-tags: ["complete","hybrid","raccoon doll","supia doll","60cm","female"]
+tags: ["complete","hybrid","raccoon doll","impldoll","60cm","female"]
 cascade:
   showReadingTime: false
 ---
@@ -14,7 +14,7 @@ cascade:
 | Character Profile | |
 | ----- | ---|
 | **Age** | 26 |
-| **Birthday** | January 10 |
+| **Birthday** | January 19 |
 | **Gender** | Female |
 | **Occupation** | Executive Assistant |
 

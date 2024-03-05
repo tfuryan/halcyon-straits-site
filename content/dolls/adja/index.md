@@ -2,7 +2,7 @@
 title: "Adja Binti"
 description: "Adja Binti Profile"
 summary: "My doll with the most frustrating body"
-tags: ["complete","pygmalion dolls","70cm","male"]
+tags: ["complete","draugar dolls","60cm","female"]
 layout: "doll-profile"
 cascade:
   showReadingTime: false

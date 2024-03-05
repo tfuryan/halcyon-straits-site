@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>draugar dolls on Halcyon Straits</title>
+    <link>https://www.halcyonstraits.com/tags/draugar-dolls/</link>
+    <description>Recent content in draugar dolls on Halcyon Straits</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Halcyon Straits</copyright>
+    <lastBuildDate>Tue, 05 Mar 2024 16:45:54 -0500</lastBuildDate><atom:link href="https://www.halcyonstraits.com/tags/draugar-dolls/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hester Chang</title>
+      <link>https://www.halcyonstraits.com/dolls/hester/</link>
+      <pubDate>Tue, 05 Mar 2024 16:45:54 -0500</pubDate>
+      
+      <guid>https://www.halcyonstraits.com/dolls/hester/</guid>
+      <description>The Matriarch</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.halcyonstraits.com/dolls/hester/feature.png" />
+    </item>
+    
+    <item>
+      <title>Adja Binti</title>
+      <link>https://www.halcyonstraits.com/dolls/adja/</link>
+      <pubDate>Tue, 05 Mar 2024 16:32:05 -0500</pubDate>
+      
+      <guid>https://www.halcyonstraits.com/dolls/adja/</guid>
+      <description>My doll with the most frustrating body</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.halcyonstraits.com/dolls/adja/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
