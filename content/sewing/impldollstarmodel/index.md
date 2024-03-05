@@ -41,7 +41,7 @@ Basic
 |Neck|Around neck base touching front collar bone and cervical bone.|14|
 |Overarm Length|Shoulder point to elbow to wrist with slightly bent arm.|20|
 |Shoulder Width|Side neck point to shoulder point.|3|
-|Trunk|Center of the shoulder line through crotch and up meeting start.|22.5|
+|Trunk|Center of the shoulder line through crotch and up meeting start.|475.|
 |Waist - Low|Measure around the body at the level of pants.|23|
 |Waist - Natural|Natural waist circumference. Elbow level.|19|
 |Waist to Floor|Natural waist to floor at center back.|41|
