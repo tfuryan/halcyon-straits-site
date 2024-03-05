@@ -27,6 +27,7 @@ cascade:
 | **Resin Color** | Copper Oriental |
 | **Body** | Fifth Motif Timeless Body <br> Copper Oriental |
 | **Face-up Artist** | SD Ink |
+| **Body Blushing Artist** | [Komorebi Dolls](https://komorebidolls.com/) - Hands|
 | **Date of Acquisition** | March 2023 |
 | **Provenance** | Purchased second-hand on [Den of Angels](https://denofangels.com/doawiki/index.php?title=5th_Motif) |
 | **Eyes** | [TianBa0830](https://www.instagram.com/tianba0830/) <br> Resin <br> Blue (Summer 2022 - No. 13) <br> 14/5 |

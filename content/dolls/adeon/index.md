@@ -2,7 +2,7 @@
 title: "Adeon Zhou"
 description: "Adeon Zhou Profile"
 summary: "My doll with the most frustrating body"
-tags: ["complete","pygmalion dolls","70cm","male"]
+tags: ["complete","pygmalion dolls","70cm","male","hybrid"]
 layout: "doll-profile"
 cascade:
   showReadingTime: false
@@ -29,10 +29,10 @@ cascade:
 | **Maker** | [Pygmalion Dolls](https://pygmaliondolls.com/) |
 | **Head Sculpt** | [Eita](https://pygmaliondolls.com/product/eitahead/144/?cate_no=25&display_group=1) |
 | **Resin Color** | White |
-| **Body** | [Pygmalion Dolls TEIA 71](https://pygmaliondolls.com/product/teia71-new-body/106/?cate_no=85&display_group=1)<br> White |
+| **Body** | [Dollstown 18yr Boy body ver.2018](https://dollstown.com/product/18yr-boy-body-ver2018/10/category/24/display/1/)<br> Fresh |
 | **Face-up Artist** | [DollFaced Studio](https://www.instagram.com/dollfacedstudio/) |
-| **Date of Acquisition** | February 2021 |
-| **Provenance** | Purchased second-hand on [Den of Angels](https://denofangels.com) |
+| **Date of Acquisition** | Head - February 2021 <br> Body - Feb 2023 |
+| **Provenance** | Head - Purchased second-hand on [Den of Angels](https://denofangels.com) <br> Body - Purchased second-hand on Instagram |
 | **Eyes** | [TianBa0830](https://www.instagram.com/tianba0830/) <br> Resin <br> Golden Brown (Winter 2021 - No. 01) <br> 10/5 |
 | **Wig** | [Iplehouse](https://iplehouse.com/home/?page_no=en_index&nhn1=en) <br> [IHW_M082](https://iplehouse.com/home/shop/item.php?it_id=1806185513&nhn1=en) <br> Fiber <br> Black <br> 8-9" |
 
