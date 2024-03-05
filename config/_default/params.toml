@@ -47,6 +47,7 @@ highlightCurrentMenuArea = true
 
 [article]
   showDate = true
+  lastmod = ["lastmod" ,':fileModTime', ":git", "date"]
   showViews = false
   showLikes = false
   showDateUpdated = false

@@ -16,7 +16,7 @@ cascade:
 | **Age** | 24 |
 | **Birthday** | August 31 |
 | **Gender** | Male |
-| **Occupation** | Bartender |
+| **Occupation** | Dancer |
 
 ---
 
