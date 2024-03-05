@@ -4,7 +4,6 @@ description: "Morgan Everest Profile"
 summary: "My narcissist doll"
 layout: "doll-profile"
 tags: ["complete","iplehouse","60cm", "female"]
-date: 2023-10-02T11:45:31-04:00
 cascade:
   showReadingTime: false
 ---

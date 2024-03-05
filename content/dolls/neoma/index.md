@@ -4,7 +4,6 @@ description: "Neoma Wen Profile"
 summary: "My favorite doll"
 layout: "doll-profile"
 tags: ["complete","hybrid","phoenix doll","dollshe","60cm", "female"]
-date: 2023-10-02T11:45:31-04:00
 cascade:
   showReadingTime: false
 type: 'dolls'
@@ -30,13 +29,13 @@ type: 'dolls'
 | **Maker** | [Phoenix Dolls](https://web.archive.org/web/20210118160334/https://www.phoenix-dolls.com/) (Web Archive) |
 | **Head Sculpt** | [Liu](https://web.archive.org/web/20210118163859/https://www.phoenix-dolls.com/liu-gallery) (Web Archive) |
 | **Resin Color** | Fine Cream |
-| **Body** | [Dollshe 16F](https://www.dollshecraft.com/16f-diana-elegant-body-shown/) <br> Oriental |
+| **Body** | [Impldoll Star Model Body](http://www.impldoll.com/) <br> Peach Gold |
 | **Face-up Artist** | [Komorebi Dolls](https://komorebidolls.com/) |
 | **Body Blushing Artist** | [Komorebi Dolls](https://komorebidolls.com/) - Hands x3 |
 | **Date of Acquisition** | February 2021 |
 | **Provenance** | Purchased second-hand on Instagram |
 | **Eyes** | [AshuraDarkEyes](https://www.etsy.com/shop/ashuradarkeyes) <br> Resin <br> Amber <br> 12/5 |
-| **Wig** | [Amadiz Beauty](https://www.amadiz.art/) <br> "Plisetsky" <br> Angora Fiber <br> Natural Black <br> 8-9" |
+| **Wig** | [Milklegsdolls](https://www.instagram.com/milklegsdolls/) <br> Custom <br> Alpaca Fiber <br> Short Black OmbBobre <br> 19.2cm |
 
   </div>
 </div>

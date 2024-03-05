@@ -4,7 +4,6 @@ description: "Saffron Zhou Profile"
 summary: "My precocious child doll"
 layout: "doll-profile"
 tags: ["wip","hybrid","black cherry doll","dollstown","45cm","50cm","female"]
-date: 2023-10-02T11:45:31-04:00
 cascade:
   showReadingTime: false
 ---
