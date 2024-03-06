@@ -3,7 +3,7 @@ title: "Jaylen Greene"
 description: "Jaylen Profile"
 summary: "My tattooed boy doll"
 layout: "doll-profile"
-tags: ["complete","75cm","rugged realism","male"]
+tags: ["complete","65cm","rugged realism","male"]
 cascade:
   showReadingTime: false
 ---

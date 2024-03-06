@@ -3,46 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://www.halcyonstraits.com/dolls/jaylen/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://www.halcyonstraits.com/dolls/willow/</loc>
+    <lastmod>2024-03-05T21:24:23-05:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.halcyonstraits.com/dolls/florian/</loc>
+    <lastmod>2024-03-05T21:24:23-05:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.halcyonstraits.com/dolls/neoma/</loc>
-    <lastmod>2024-03-05T16:46:50-05:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.halcyonstraits.com/dolls/hester/</loc>
-    <lastmod>2024-03-05T16:46:50-05:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.halcyonstraits.com/dolls/saffron/</loc>
-    <lastmod>2024-03-05T15:26:28-05:00</lastmod>
+    <loc>https://www.halcyonstraits.com/dolls/jaylen/</loc>
+    <lastmod>2024-03-05T21:24:23-05:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.halcyonstraits.com/dolls/adeon/</loc>
-    <lastmod>2024-03-05T16:46:50-05:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.halcyonstraits.com/dolls/gemma/</loc>
     <lastmod>2024-03-05T16:46:50-05:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -60,7 +39,37 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.halcyonstraits.com/dolls/gemma/</loc>
+    <lastmod>2024-03-05T16:46:50-05:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.halcyonstraits.com/dolls/hester/</loc>
+    <lastmod>2024-03-05T16:46:50-05:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.halcyonstraits.com/sewing/impldollstarmodel/</loc>
+    <lastmod>2024-03-05T09:48:16-05:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.halcyonstraits.com/dolls/neoma/</loc>
+    <lastmod>2024-03-05T16:46:50-05:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.halcyonstraits.com/dolls/rai/</loc>
+    <lastmod>2024-03-05T15:26:28-05:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.halcyonstraits.com/dolls/saffron/</loc>
     <lastmod>2024-03-05T15:26:28-05:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -80,12 +89,6 @@
   <url>
     <loc>https://www.halcyonstraits.com/dolls/seacan/</loc>
     <lastmod>2024-03-05T15:26:28-05:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.halcyonstraits.com/sewing/impldollstarmodel/</loc>
-    <lastmod>2024-03-05T09:48:16-05:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
