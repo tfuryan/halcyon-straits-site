@@ -4,6 +4,7 @@ description: "Florian Profile"
 summary: "My forlorn boy doll"
 layout: "doll-profile"
 tags: ["wip","70cm","atsdoll","male"]
+date: "2024-02-17"
 cascade:
   showReadingTime: false
 ---

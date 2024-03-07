@@ -4,6 +4,7 @@ description: "Rai Fletcher Profile"
 summary: "My moodiest boy doll"
 layout: "doll-profile"
 tags: ["complete","70cm","llt","male"]
+date: "2022-08-31"
 cascade:
   showReadingTime: false
 ---

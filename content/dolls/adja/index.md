@@ -4,6 +4,7 @@ description: "Adja Binti Profile"
 summary: "My doll with the most frustrating body"
 tags: ["complete","draugar dolls","60cm","female"]
 layout: "doll-profile"
+date: "2023-09-22"
 cascade:
   showReadingTime: false
 ---

@@ -7,21 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Halcyon Straits</copyright>
-    <lastBuildDate>Wed, 06 Mar 2024 16:59:50 -0500</lastBuildDate><atom:link href="https://www.halcyonstraits.com/tags/wip/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Willow</title>
-      <link>https://www.halcyonstraits.com/dolls/willow/</link>
-      <pubDate>Wed, 06 Mar 2024 16:59:50 -0500</pubDate>
-      
-      <guid>https://www.halcyonstraits.com/dolls/willow/</guid>
-      <description>My idol doll</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.halcyonstraits.com/dolls/willow/feature.png" />
-    </item>
-    
+    <lastBuildDate>Sat, 17 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.halcyonstraits.com/tags/wip/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Florian</title>
       <link>https://www.halcyonstraits.com/dolls/florian/</link>
-      <pubDate>Wed, 06 Mar 2024 16:59:41 -0500</pubDate>
+      <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
       
       <guid>https://www.halcyonstraits.com/dolls/florian/</guid>
       <description>My forlorn boy doll</description>
@@ -29,9 +19,19 @@
     </item>
     
     <item>
+      <title>Willow</title>
+      <link>https://www.halcyonstraits.com/dolls/willow/</link>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.halcyonstraits.com/dolls/willow/</guid>
+      <description>My idol doll</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.halcyonstraits.com/dolls/willow/feature.png" />
+    </item>
+    
+    <item>
       <title>Saffron Zhou</title>
       <link>https://www.halcyonstraits.com/dolls/saffron/</link>
-      <pubDate>Tue, 05 Mar 2024 16:45:51 -0500</pubDate>
+      <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.halcyonstraits.com/dolls/saffron/</guid>
       <description>My precocious child doll</description>

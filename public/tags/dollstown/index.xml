@@ -7,25 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Halcyon Straits</copyright>
-    <lastBuildDate>Tue, 05 Mar 2024 21:25:16 -0500</lastBuildDate><atom:link href="https://www.halcyonstraits.com/tags/dollstown/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Adeon Zhou</title>
-      <link>https://www.halcyonstraits.com/dolls/adeon/</link>
-      <pubDate>Tue, 05 Mar 2024 21:25:16 -0500</pubDate>
-      
-      <guid>https://www.halcyonstraits.com/dolls/adeon/</guid>
-      <description>My doll with the most frustrating body</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.halcyonstraits.com/dolls/adeon/featured.png" />
-    </item>
-    
+    <lastBuildDate>Sat, 15 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.halcyonstraits.com/tags/dollstown/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Saffron Zhou</title>
       <link>https://www.halcyonstraits.com/dolls/saffron/</link>
-      <pubDate>Tue, 05 Mar 2024 16:45:51 -0500</pubDate>
+      <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.halcyonstraits.com/dolls/saffron/</guid>
       <description>My precocious child doll</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.halcyonstraits.com/dolls/saffron/featured.png" />
+    </item>
+    
+    <item>
+      <title>Adeon Zhou</title>
+      <link>https://www.halcyonstraits.com/dolls/adeon/</link>
+      <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.halcyonstraits.com/dolls/adeon/</guid>
+      <description>My doll with the most frustrating body</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.halcyonstraits.com/dolls/adeon/featured.png" />
     </item>
     
   </channel>

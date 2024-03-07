@@ -4,6 +4,7 @@ description: "Jaylen Profile"
 summary: "My tattooed boy doll"
 layout: "doll-profile"
 tags: ["complete","65cm","rugged realism","male"]
+date: "2023-01-23"
 cascade:
   showReadingTime: false
 ---

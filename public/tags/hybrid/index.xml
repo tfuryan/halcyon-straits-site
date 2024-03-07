@@ -7,11 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Halcyon Straits</copyright>
-    <lastBuildDate>Tue, 05 Mar 2024 21:25:16 -0500</lastBuildDate><atom:link href="https://www.halcyonstraits.com/tags/hybrid/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.halcyonstraits.com/tags/hybrid/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Saffron Zhou</title>
+      <link>https://www.halcyonstraits.com/dolls/saffron/</link>
+      <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.halcyonstraits.com/dolls/saffron/</guid>
+      <description>My precocious child doll</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.halcyonstraits.com/dolls/saffron/featured.png" />
+    </item>
+    
+    <item>
+      <title>Neoma Wen</title>
+      <link>https://www.halcyonstraits.com/dolls/neoma/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.halcyonstraits.com/dolls/neoma/</guid>
+      <description>My favorite doll</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.halcyonstraits.com/dolls/neoma/feature.png" />
+    </item>
+    
     <item>
       <title>Adeon Zhou</title>
       <link>https://www.halcyonstraits.com/dolls/adeon/</link>
-      <pubDate>Tue, 05 Mar 2024 21:25:16 -0500</pubDate>
+      <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.halcyonstraits.com/dolls/adeon/</guid>
       <description>My doll with the most frustrating body</description>
@@ -21,7 +41,7 @@
     <item>
       <title>Gemma Lin</title>
       <link>https://www.halcyonstraits.com/dolls/gemma/</link>
-      <pubDate>Tue, 05 Mar 2024 21:25:16 -0500</pubDate>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.halcyonstraits.com/dolls/gemma/</guid>
       <description>My hautiest girl doll</description>
@@ -31,31 +51,11 @@
     <item>
       <title>Hester Chang</title>
       <link>https://www.halcyonstraits.com/dolls/hester/</link>
-      <pubDate>Tue, 05 Mar 2024 21:25:16 -0500</pubDate>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.halcyonstraits.com/dolls/hester/</guid>
       <description>The Matriarch</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.halcyonstraits.com/dolls/hester/feature.png" />
-    </item>
-    
-    <item>
-      <title>Neoma Wen</title>
-      <link>https://www.halcyonstraits.com/dolls/neoma/</link>
-      <pubDate>Tue, 05 Mar 2024 21:25:16 -0500</pubDate>
-      
-      <guid>https://www.halcyonstraits.com/dolls/neoma/</guid>
-      <description>My favorite doll</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.halcyonstraits.com/dolls/neoma/feature.png" />
-    </item>
-    
-    <item>
-      <title>Saffron Zhou</title>
-      <link>https://www.halcyonstraits.com/dolls/saffron/</link>
-      <pubDate>Tue, 05 Mar 2024 16:45:51 -0500</pubDate>
-      
-      <guid>https://www.halcyonstraits.com/dolls/saffron/</guid>
-      <description>My precocious child doll</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.halcyonstraits.com/dolls/saffron/featured.png" />
     </item>
     
   </channel>

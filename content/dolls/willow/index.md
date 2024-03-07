@@ -4,6 +4,7 @@ description: "Willow Profile"
 summary: "My idol doll"
 layout: "doll-profile"
 tags: ["wip","fanff","60cm", "female"]
+date: "2023-10-04"
 cascade:
   showReadingTime: false
 ---

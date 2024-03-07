@@ -4,6 +4,7 @@ description: "Adeon Zhou Profile"
 summary: "My doll with the most frustrating body"
 tags: ["complete","pygmalion dolls","dollstown","70cm","male","hybrid"]
 layout: "doll-profile"
+date: "2021-02-04"
 cascade:
   showReadingTime: false
 ---

@@ -4,6 +4,7 @@ description: "Hester Chang Profile"
 summary: "The Matriarch"
 layout: "doll-profile"
 tags: ["complete","hybrid","draugar dolls","dollshe","60cm", "female"]
+date: "2021-01-10"
 cascade:
   showReadingTime: false
 type: 'dolls'

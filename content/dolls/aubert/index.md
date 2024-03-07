@@ -4,6 +4,7 @@ description: "Aubert Profile"
 summary: "My iconic French boy doll"
 tags: ["complete","fifth motif","70cm", "male"]
 layout: "doll-profile"
+date: "2023-03-23"
 cascade:
   showReadingTime: false
 ---

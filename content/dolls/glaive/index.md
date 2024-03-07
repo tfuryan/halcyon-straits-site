@@ -4,6 +4,7 @@ description: "Glaive Wen Profile"
 summary: "My softest boy doll"
 layout: "doll-profile"
 tags: ["complete","meeks doll","70cm", "male"]
+date: "2022-04-16"
 cascade:
   showReadingTime: false
 ---

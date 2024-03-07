@@ -17,8 +17,7 @@ buildDrafts = false
 buildFuture = false
 
 [frontmatter]
-date = ['date',':fileModTime', ':git', ':default']
-# lastmod = ["lastmod" ,':fileModTime', ":git", "date"]
+lastmod = ["lastmod" ,':fileModTime', ":git", "date"]
 
 # googleAnalytics = "G-XXXXXXXXX"
 

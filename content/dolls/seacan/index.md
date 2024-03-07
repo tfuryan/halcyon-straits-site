@@ -4,6 +4,7 @@ description: "Seacan Profile"
 summary: "My prettiest boy doll"
 layout: "doll-profile"
 tags: ["complete","70cm","rugged realism","male"]
+date: "2022-08-18"
 cascade:
   showReadingTime: false
 ---

@@ -4,6 +4,7 @@ description: "Gemma Lin Profile"
 summary: "My hautiest girl doll"
 layout: "doll-profile"
 tags: ["complete","hybrid","raccoon doll","impldoll","60cm","female"]
+date: "2021-01-19"
 cascade:
   showReadingTime: false
 ---
