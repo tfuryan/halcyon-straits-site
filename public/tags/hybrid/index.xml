@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Halcyon Straits</copyright>
-    <lastBuildDate>Sat, 15 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.halcyonstraits.com/tags/hybrid/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.halcyonstraits.com/tags/hybrid/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hester Chang</title>
+      <link>https://www.halcyonstraits.com/dolls/hester/</link>
+      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.halcyonstraits.com/dolls/hester/</guid>
+      <description>The Matriarch</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.halcyonstraits.com/dolls/hester/feature.png" />
+    </item>
+    
     <item>
       <title>Saffron Zhou</title>
       <link>https://www.halcyonstraits.com/dolls/saffron/</link>
@@ -46,16 +56,6 @@
       <guid>https://www.halcyonstraits.com/dolls/gemma/</guid>
       <description>My hautiest girl doll</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.halcyonstraits.com/dolls/gemma/featured.png" />
-    </item>
-    
-    <item>
-      <title>Hester Chang</title>
-      <link>https://www.halcyonstraits.com/dolls/hester/</link>
-      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.halcyonstraits.com/dolls/hester/</guid>
-      <description>The Matriarch</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.halcyonstraits.com/dolls/hester/feature.png" />
     </item>
     
   </channel>

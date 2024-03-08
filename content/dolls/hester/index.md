@@ -4,7 +4,7 @@ description: "Hester Chang Profile"
 summary: "The Matriarch"
 layout: "doll-profile"
 tags: ["complete","hybrid","draugar dolls","dollshe","60cm", "female"]
-date: "2021-01-10"
+date: "2022-01-10"
 cascade:
   showReadingTime: false
 type: 'dolls'
@@ -32,7 +32,7 @@ type: 'dolls'
 | **Body** | [Dollshe 16F](https://www.dollshecraft.com/16f-diana-elegant-body-shown/) <br> Oriental |
 | **Face-up Artist** | [Komorebi Dolls](https://komorebidolls.com/) |
 | **Body Blushing Artist** | [Komorebi Dolls](https://komorebidolls.com/) - Hands x3 |
-| **Date of Acquisition** | January 2021 |
+| **Date of Acquisition** | January 2022 |
 | **Provenance** | Head - Purchased directly from Draugar Dolls <br> Body - Purchased second-hand on Instagram |
 | **Eyes** | [AshuraDarkEyes](https://www.etsy.com/shop/ashuradarkeyes) <br> Resin <br> Amber <br> 12/5 |
 | **Wig** | [Milklegsdolls](https://www.instagram.com/milklegsdolls/) <br> Custom <br> Alpaca Fiber <br> Short Wavy Grey/Black Bob <br> 19.5cm |
