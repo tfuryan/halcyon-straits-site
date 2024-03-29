@@ -17,7 +17,7 @@ mainSections = ["dolls"]
 
 disableImageOptimization = false
 
-defaultBackgroundImage = "img/background-main2.png" # used as default for background images 
+defaultBackgroundImage = "img/background-main.png" # used as default for background images 
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
 
 highlightCurrentMenuArea = true
@@ -36,7 +36,7 @@ highlightCurrentMenuArea = true
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "img/background-main2.png" # used in: hero, and card
+  homepageImage = "img/background-main.png" # used in: hero, and card
   showRecent = true
   showRecentItems = 3
   showMoreLink = true
