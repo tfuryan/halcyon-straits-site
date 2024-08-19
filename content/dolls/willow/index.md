@@ -32,7 +32,7 @@ cascade:
 | **Date of Acquisition** | October 2023 |
 | **Provenance** | Order through Dealer NewCloverSinging |
 | **Eyes** | [AshuraDarkEyes](https://www.etsy.com/shop/ashuradarkeyes) <br> Resin <br> Brown <br> 12/5 |
-| **Wig** | Unknown |
+| **Wig** | Unknown <br> Alpaca Fiber <br> Blond Pink Ombre |
 
   </div>
 </div>

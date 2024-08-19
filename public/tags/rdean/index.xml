@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rdean on Halcyon Straits</title>
+    <link>https://www.halcyonstraits.com/tags/rdean/</link>
+    <description>Recent content in rdean on Halcyon Straits</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Halcyon Straits</copyright>
+    <lastBuildDate>Wed, 17 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.halcyonstraits.com/tags/rdean/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Florian</title>
+      <link>https://www.halcyonstraits.com/dolls/florian/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.halcyonstraits.com/dolls/florian/</guid>
+      <description>My guy in finance doll</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.halcyonstraits.com/dolls/florian/feature.jpeg" />
+    </item>
+    
+  </channel>
+</rss>

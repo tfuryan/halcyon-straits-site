@@ -10,7 +10,7 @@ cascade:
 type: 'dolls'
 ---
 <div class="flex gap-4 flex-row flex-wrap">
-  <div><figure><img src="neoma_bakery.png" class="doll-profile-img" alt="A female asian doll with deep red lips wearing a red head scarf" width="500"><figcaption>Neoma Wen - August 2023</figcaption></figure></div>
+  <div><figure><img src="neoma-resinrose24-waterfall.png" class="doll-profile-img" alt="A female asian doll with deep red lips wearing a red head scarf" width="500"><figcaption>Neoma Wen - August 2023</figcaption></figure></div>
   <div>
 
 | Character Profile | |
@@ -32,7 +32,7 @@ type: 'dolls'
 | **Resin Color** | Fine Cream |
 | **Body** | [Impldoll Star Model Body](http://www.impldoll.com/) <br> Peach Gold |
 | **Face-up Artist** | [Komorebi Dolls](https://komorebidolls.com/) |
-| **Body Blushing Artist** | [Komorebi Dolls](https://komorebidolls.com/) - Hands x3 |
+| **Body Blushing Artist** | [Komorebi Dolls](https://komorebidolls.com/) - Jointed Soom Gem Hands |
 | **Date of Acquisition** | February 2021 |
 | **Provenance** | Head - Purchased second-hand on Instagram <br> Body - Directly from [Impldoll](http://www.impldoll.com/) |
 | **Eyes** | [AshuraDarkEyes](https://www.etsy.com/shop/ashuradarkeyes) <br> Resin <br> Amber <br> 12/5 |

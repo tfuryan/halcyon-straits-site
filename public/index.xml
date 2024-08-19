@@ -9,6 +9,16 @@
     <copyright>© 2024 Halcyon Straits</copyright>
     <atom:link href="https://www.halcyonstraits.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Veralyne</title>
+      <link>https://www.halcyonstraits.com/dolls/veralyne/</link>
+      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.halcyonstraits.com/dolls/veralyne/</guid>
+      <description>My shell of my Cyberpunk Character V (Veralyne)</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.halcyonstraits.com/dolls/veralyne/feature.jpeg" />
+    </item>
+    
+    <item>
       <title>March 2024 in Review</title>
       <link>https://www.halcyonstraits.com/posts/post-05-march-2024-thoughts/</link>
       <pubDate>Fri, 29 Mar 2024 13:20:41 -0400</pubDate>
@@ -29,13 +39,13 @@
     </item>
     
     <item>
-      <title>Florian</title>
-      <link>https://www.halcyonstraits.com/dolls/florian/</link>
+      <title>Tygo</title>
+      <link>https://www.halcyonstraits.com/dolls/tygo/</link>
       <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://www.halcyonstraits.com/dolls/florian/</guid>
+      <guid>https://www.halcyonstraits.com/dolls/tygo/</guid>
       <description>My forlorn boy doll</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.halcyonstraits.com/dolls/florian/feature.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.halcyonstraits.com/dolls/tygo/feature.jpeg" />
     </item>
     
     <item>
@@ -45,7 +55,7 @@
       
       <guid>https://www.halcyonstraits.com/dolls/willow/</guid>
       <description>My idol doll</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.halcyonstraits.com/dolls/willow/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.halcyonstraits.com/dolls/willow/feature.jpg" />
     </item>
     
     <item>
@@ -157,6 +167,16 @@ So since I have some extended time for the next few weeks, I thought I would go 
       <guid>https://www.halcyonstraits.com/dolls/seacan/</guid>
       <description>My prettiest boy doll</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.halcyonstraits.com/dolls/seacan/featured.png" />
+    </item>
+    
+    <item>
+      <title>Florian</title>
+      <link>https://www.halcyonstraits.com/dolls/florian/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.halcyonstraits.com/dolls/florian/</guid>
+      <description>My guy in finance doll</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.halcyonstraits.com/dolls/florian/feature.jpeg" />
     </item>
     
     <item>
@@ -307,6 +327,16 @@ So since I have some extended time for the next few weeks, I thought I would go 
       <guid>https://www.halcyonstraits.com/links/skyriver/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.halcyonstraits.com/links/skyriver/featured.png" />
+    </item>
+    
+    <item>
+      <title>Veralyne</title>
+      <link>https://www.halcyonstraits.com/visuals/moodboards/veralyne/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.halcyonstraits.com/visuals/moodboards/veralyne/</guid>
+      <description> My Character V from Cyberpunk 2077 - use as starting point Would like this part of the jaw to be black metallic Example of traces in face with gold/silver/black metallics or flesh I like the contrast of her bright waterline and eyelashes against the dark eye makeup Vibes - but in purples Inspo for ear piercings Size reference for neck tattoo, but would want it colored Inspo for back tattoo - redder plum blossoms </description>
+      
     </item>
     
   </channel>
