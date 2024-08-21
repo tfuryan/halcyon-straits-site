@@ -10,7 +10,7 @@ cascade:
 ---
 
 <div class="flex gap-4 flex-row flex-wrap">
-  <div><figure><img src="adja-sitting.png" class="doll-profile-img" alt="A Black female doll with long straight dark blue hair in a plum blossom dress sitting with one leg crossed over the other on a wooden stool." width="500"><figcaption>Adja Binti - September 2023</figcaption></figure> </div>
+  <div><figure><img src="white-dress.jpeg" class="doll-profile-img" alt="A Black female doll with long straight dark blue hair in a plum blossom dress sitting with one leg crossed over the other on a wooden stool." width="500"><figcaption>Adja Binti - September 2023</figcaption></figure> </div>
   <div>
 
 | Character Profile | |

@@ -9,7 +9,7 @@ cascade:
   showReadingTime: false
 ---
 <div class="flex gap-4 flex-row flex-wrap">
-  <div><figure><img src="feature.png" class="doll-profile-img" alt="A female dollhead partially painted" width="500"><figcaption>Willow - March 2024</figcaption></figure></div>
+  <div><figure><img src="idol-pose.jpeg" class="doll-profile-img" alt="A female dollhead partially painted" width="500"><figcaption>Willow - August 2024</figcaption></figure></div>
   <div>
 
 | Character Profile | |

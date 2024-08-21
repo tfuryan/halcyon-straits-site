@@ -17,7 +17,7 @@ cascade:
 | **Age** | 37 |
 | **Birthday** | August 11 |
 | **Gender** | Male |
-| **Occupation** | Doctor |
+| **Occupation** | Stock Trader |
 
 ---
 

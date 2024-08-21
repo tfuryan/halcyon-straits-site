@@ -17,7 +17,7 @@ cascade:
 | **Age** | 28 |
 | **Birthday** | March 23 |
 | **Gender** | Male |
-| **Occupation** | Baker |
+| **Occupation** | Pastry Chef |
 
 ---
 
