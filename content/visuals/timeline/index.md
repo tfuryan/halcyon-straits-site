@@ -22,7 +22,8 @@ Created a timeline of my acquired sculpts that are "done". This page doesn't wor
 
 {{< flexTimelineItem  cardYear="2019" cardSubYear="30 OCTOBER" cardImage="images/myou-matcha.png" >}}
 MYOU<br>
-Ordered in-stock from JunkySpot
+Ordered in-stock from JunkySpot<br>
+DONATED - RESIN ROSE 2023
 {{< /flexTimelineItem >}}
 
 {{< flexTimelineItem  cardYear="2019" cardSubYear="05 DECEMBER" cardImage="images/pkf-rosanna.png"  >}}
@@ -45,7 +46,8 @@ SOLD
 
 {{< flexTimelineItem  cardYear="2020" cardSubYear="02 NOVEMBER" cardImage="images/iplehouse-yui.png"  >}}
 Iplehouse Yui<br>
-Ordered directly from Iplehouse
+Ordered directly from Iplehouse<br>
+FOR SALE
 {{< /flexTimelineItem >}}
 
 {{< flexTimelineItem  cardYear="2021" cardSubYear="11 JANUARY" cardImage="images/realpuki-obi.png"  >}}
@@ -55,7 +57,8 @@ Ordered in-stock from Denver Doll Emporium
 
 {{< flexTimelineItem  cardYear="2021" cardSubYear="19 JANUARY" cardImage="images/raccoon-doll-gene.png"  >}}
 Raccoon Doll Gene<br>
-Ordered directly from Raccoon Doll
+Ordered directly from Raccoon Doll<br>
+FOR SALE
 {{< /flexTimelineItem >}}
 
 {{< flexTimelineItem  cardYear="2021" cardSubYear="04 FEBRUARY" cardImage="images/pygmalion-dolls-eita.png"  >}}
@@ -80,7 +83,8 @@ Second-hand from Den of Angels
 
 {{< flexTimelineItem  cardYear="2021" cardSubYear="31 DECEMEBER" cardImage="images/dollshe-diana.png"  >}}
 Dollshe Diana<br>
-Second-hand from Instagram
+Second-hand from Instagram<br>
+FOR SALE
 {{< /flexTimelineItem >}}
 
 {{< flexTimelineItem  cardYear="2022" cardSubYear="16 APRIL" cardImage="images/meeksdoll-farrell.png"  >}}
@@ -90,7 +94,8 @@ Order directly from Meeks Dolls
 
 {{< flexTimelineItem  cardYear="2022" cardSubYear="08 AUGUST" cardImage="images/iplehouse-vanessa.png"  >}}
 Iplehouse Vanessa<br>
-Second-hand from Instagram
+Second-hand from Instagram<br>
+FOR SALE
 {{< /flexTimelineItem >}}
 
 {{< flexTimelineItem  cardYear="2022" cardSubYear="10 AUGUST" cardImage="images/rugged-realism-epsilon.png"  >}}
@@ -100,7 +105,8 @@ Second-hand from Den of Angels
 
 {{< flexTimelineItem  cardYear="2022" cardSubYear="11 AUGUST" cardImage="images/rdean-adan.png"  >}}
 R.Dean Adan<br>
-Ordered directly from R.Dean
+Ordered directly from R.Dean<br>
+FOR SALE
 {{< /flexTimelineItem >}}
 
 {{< flexTimelineItem  cardYear="2022" cardSubYear="31 AUGUST" cardImage="images/llt-neil.png"  >}}
@@ -118,5 +124,19 @@ Draugar Dolls Selene<br>
 Ordered directly from Draugar Dolls
 {{< /flexTimelineItem >}}
 
+{{< flexTimelineItem  cardYear="2023" cardSubYear="04 OCTOBER" cardImage="images/fanff-liu.png"  >}}
+Fan/FF Doll Liu<br>
+Ordered through dealer New Clover Singing
+{{< /flexTimelineItem >}}
+
+{{< flexTimelineItem  cardYear="2024" cardSubYear="17 FEBRUARY" cardImage="images/atsdoll-auriga.png"  >}}
+ATSDoll Auriga<br>
+Second-hand from Instagram
+{{< /flexTimelineItem >}}
+
+{{< flexTimelineItem  cardYear="2024" cardSubYear="11 MAY" cardImage="images/android-mei.png"  >}}
+Phoenix Dolls Android Mei<br>
+Second-hand from Den of Angels
+{{< /flexTimelineItem >}}
 
 {{< /flexTimeline >}}
