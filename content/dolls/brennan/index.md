@@ -1,6 +1,6 @@
 ---
-title: "Tygo"
-description: "Tygo Profile"
+title: "Brennan"
+description: "Brennan Profile"
 summary: "My forlorn boy doll"
 layout: "doll-profile"
 tags: ["wip","70cm","atsdoll","male"]
@@ -9,7 +9,7 @@ cascade:
   showReadingTime: false
 ---
 <div class="flex gap-4 flex-row flex-wrap">
-  <div><figure><img src="feature.jpeg" class="doll-profile-img" class="doll-profile-img" alt="A tan male doll with blond hair" width="500"><figcaption>Tygo - February 2024</figcaption></figure></div>
+  <div><figure><img src="bw-brennan.png" class="doll-profile-img" class="doll-profile-img" alt="A tan male doll with blond hair" width="500"><figcaption>Brennan - February 2024</figcaption></figure></div>
   <div>
 
 | Character Profile | |
@@ -29,8 +29,8 @@ cascade:
 | **Body** | ATSdoll M70 <br> Wheat |
 | **Date of Acquisition** | February 2024 |
 | **Provenance** | Purchased secondhand on Instagram|
-| **Eyes** | [AshuraDarkEyes](https://www.etsy.com/shop/ashuradarkeyes) <br> Resin <br> Blue <br> 14/5 |
-| **Wig** | Unknown <br> Alpaca Fiber <br> Sandy Brown <br> 9-10" |
+| **Eyes** | [TianBa0830](https://www.instagram.com/tianba0830/) <br> Resin <br> Dark Brown (summer 2024 - No. 09) <br> 14/5  |
+| **Wig** | Iplehouse <br> Heat Resistence Fiber <br> Brown <br> 9-10" |
 
   </div>
 </div>

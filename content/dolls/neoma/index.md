@@ -35,7 +35,7 @@ type: 'dolls'
 | **Body Blushing Artist** | [Komorebi Dolls](https://komorebidolls.com/) - Jointed Soom Gem Hands |
 | **Date of Acquisition** | February 2021 |
 | **Provenance** | Head - Purchased second-hand on Instagram <br> Body - Directly from [Impldoll](http://www.impldoll.com/) |
-| **Eyes** | [AshuraDarkEyes](https://www.etsy.com/shop/ashuradarkeyes) <br> Resin <br> Amber <br> 12/5 |
+| **Eyes** | [TianBa0830](https://www.instagram.com/tianba0830/) <br> Resin <br> Dark Brown (summer 2024 - No. 09) <br> 14/4 |
 | **Wig** | [Milklegsdolls](https://www.instagram.com/milklegsdolls/) <br> Custom <br> Alpaca Fiber <br> Short Black Bob <br> 19.2cm |
 
   </div>

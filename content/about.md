@@ -17,4 +17,4 @@ I share some of my experiences via YouTube videos which serves as another creati
 
 Thank you for visiting, and I hope you find something here that interests you too!
 
-<figure><img src="/profile-pic.jpg" alt="Painting of Me by Emberleo" width="500"><figcaption>Painting of me by <a href="https://www.deviantart.com/emberleo/gallery">Emberleo</a> entited "<a href="https://www.deviantart.com/emberleo/art/Portrait-of-Love-83075520">A Portait of Love</a>" - April 2008</figcaption></figure> 
+<figure><img src="/profile-pic.jpg" alt="Painting of Me by Emberleo" width="500"><figcaption>Painting of me by <a href="https://www.deviantart.com/emberleo/gallery">Emberleo</a> entitled "<a href="https://www.deviantart.com/emberleo/art/Portrait-of-Love-83075520">A Portait of Love</a>" - April 2008</figcaption></figure> 
